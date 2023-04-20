@@ -1,0 +1,5087 @@
+[
+    {
+        "cupos": 2,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3552
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3238
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2858
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2522
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2324
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 1776
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 1619
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 1429
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1261
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1162
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 1",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 16556928,
+                        "nombre": "SERGIO HUMBERTO RIOS GAMBOA",
+                        "votos": 957
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13412628,
+                        "nombre": "NORA DEL CARMEN BUGUE\u00d1O AGUILERA",
+                        "votos": 897
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14102768,
+                        "nombre": "KARLA ANGELICA A\u00d1ES GAJARDO",
+                        "votos": 872
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10728965,
+                        "nombre": "ERNESTO RODRIGO PLASENCIA ROJAS",
+                        "votos": 826
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 3552
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 1776
+                    }
+                ],
+                "totales": 3552
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 13863895,
+                        "nombre": "MACARENA RIVEROS OYARZO",
+                        "votos": 879
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4738039,
+                        "nombre": "SALVADOR URRUTIA CARDENAS",
+                        "votos": 860
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4847637,
+                        "nombre": "RAUL RAMON CASTRO LETELIER",
+                        "votos": 751
+                    },
+                    {
+                        "genero": "F",
+                        "id": 11888643,
+                        "nombre": "GLORIA LILLO REBOLLEDO",
+                        "votos": 748
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 3238
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 1619
+                    }
+                ],
+                "totales": 3238
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 11505821,
+                        "nombre": "JACQUELINE CAROLINA BOERO CARVAJAL",
+                        "votos": 763
+                    },
+                    {
+                        "genero": "M",
+                        "id": 20218020,
+                        "nombre": "DIEGO ALBERTO VARGAS CASTILLO",
+                        "votos": 720
+                    },
+                    {
+                        "genero": "F",
+                        "id": 20217726,
+                        "nombre": "FRANCISCA MARINA CAVIERES DIAZ",
+                        "votos": 701
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7214480,
+                        "nombre": "CARLOS MIGUEL ALVARADO AGUIRRE",
+                        "votos": 674
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 2858
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 1429
+                    }
+                ],
+                "totales": 2858
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 13415976,
+                        "nombre": "JOCELYN  ORME\u00d1O LEE",
+                        "votos": 648
+                    },
+                    {
+                        "genero": "F",
+                        "id": 5501238,
+                        "nombre": "MIRIAM ARENAS SANDOVAL",
+                        "votos": 641
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16937042,
+                        "nombre": "DANIEL ALEXANDRO BUNSTER RUIZ",
+                        "votos": 619
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9072069,
+                        "nombre": "RODRIGO LEONARDO MU\u00d1OZ PONCE",
+                        "votos": 614
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 2522
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 1261
+                    }
+                ],
+                "totales": 2522
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 12608155,
+                        "nombre": "BRUNELLA  VINET MATTASOGLIO",
+                        "votos": 625
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7024697,
+                        "nombre": "RAUL  GIL GONZALEZ",
+                        "votos": 608
+                    },
+                    {
+                        "genero": "F",
+                        "id": 19081767,
+                        "nombre": "JOSEFINA LETELIER LARRAIN",
+                        "votos": 581
+                    },
+                    {
+                        "genero": "M",
+                        "id": 13999294,
+                        "nombre": "JUAN MANUEL CARRASCO BARRA",
+                        "votos": 510
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 2324
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1162
+                    }
+                ],
+                "totales": 2324
+            }
+        ],
+        "zona": 5001
+    },
+    {
+        "cupos": 2,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3535
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3409
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 3040
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2499
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2410
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 1767
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 1704
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 1520
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1249
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1205
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 2",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15017736,
+                        "nombre": "CLAUDIA EVELYN VILLEGAS CARVAJAL",
+                        "votos": 966
+                    },
+                    {
+                        "genero": "M",
+                        "id": 12447501,
+                        "nombre": "LUIS DIXON VERGARA PIZARRO",
+                        "votos": 923
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6720037,
+                        "nombre": "CARLOS ALBERTO MELLA LATORRE",
+                        "votos": 832
+                    },
+                    {
+                        "genero": "F",
+                        "id": 18004190,
+                        "nombre": "FRANCISCA ESTER VARGAS PALLERO",
+                        "votos": 814
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 3535
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 1767
+                    }
+                ],
+                "totales": 3535
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15002239,
+                        "nombre": "NORMA CRISTINA CORDOVA CORREA",
+                        "votos": 878
+                    },
+                    {
+                        "genero": "F",
+                        "id": 11841040,
+                        "nombre": "MARCELA ORTEGA SAEZ",
+                        "votos": 855
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4227646,
+                        "nombre": "SERGIO BITAR CHACRA",
+                        "votos": 846
+                    },
+                    {
+                        "genero": "M",
+                        "id": 14271718,
+                        "nombre": "PEDRO ANDRES VASQUEZ NEIRA",
+                        "votos": 830
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 3409
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 1704
+                    }
+                ],
+                "totales": 3409
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 17094561,
+                        "nombre": "NINOSKA ESTHER PAYAUNA VILCA",
+                        "votos": 782
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13416397,
+                        "nombre": "ANDREA ELIZABETH DUE\u00d1AS CHAVEZ",
+                        "votos": 769
+                    },
+                    {
+                        "genero": "M",
+                        "id": 18264399,
+                        "nombre": "LEONARDO ANDRES RAMOS IRIARTE",
+                        "votos": 745
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16556679,
+                        "nombre": "SEBASTIAN ESTEBAN PARRAGUEZ GONZALEZ",
+                        "votos": 744
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 3040
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 1520
+                    }
+                ],
+                "totales": 3040
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 9225586,
+                        "nombre": "PILAR BARRIENTOS HERNANDEZ",
+                        "votos": 672
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16592912,
+                        "nombre": "ROMINA  TERRAZAS BARRAZA",
+                        "votos": 593
+                    },
+                    {
+                        "genero": "M",
+                        "id": 5348422,
+                        "nombre": "NESTOR JOFRE NU\u00d1EZ",
+                        "votos": 579
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10586276,
+                        "nombre": "MAURICIO SCHMIDT SILVA",
+                        "votos": 566
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 2410
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1205
+                    }
+                ],
+                "totales": 2410
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 16486080,
+                        "nombre": "ROMINA CAROLINA RAMOS RODRIGUEZ",
+                        "votos": 655
+                    },
+                    {
+                        "genero": "M",
+                        "id": 5595090,
+                        "nombre": "ROBERTO FLAVIO CORTEZ ROJAS",
+                        "votos": 646
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8512604,
+                        "nombre": "KURT HENER PEREZ",
+                        "votos": 604
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13991861,
+                        "nombre": "ROSA MARIA OJEDA MENARES",
+                        "votos": 594
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 2499
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 1249
+                    }
+                ],
+                "totales": 2499
+            }
+        ],
+        "zona": 5002
+    },
+    {
+        "cupos": 3,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 5212
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 4755
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 4213
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 3972
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 3610
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 2606
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2377
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2106
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1986
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1805
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 1737
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 1585
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 1404
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1324
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1203
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 3",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 9542426,
+                        "nombre": "SINDY TESSA GONZALEZ SALINI",
+                        "votos": 1385
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13289217,
+                        "nombre": "TAMMY SOLEDAD VERDUGO REYES",
+                        "votos": 1356
+                    },
+                    {
+                        "genero": "M",
+                        "id": 13014404,
+                        "nombre": "JUAN ENRIQUE MORAGA MENA",
+                        "votos": 1266
+                    },
+                    {
+                        "genero": "M",
+                        "id": 20817869,
+                        "nombre": "JORGE ANDRES ALVAREZ TAPIA",
+                        "votos": 1205
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 5212
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 2606
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 1737
+                    }
+                ],
+                "totales": 5212
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 11721751,
+                        "nombre": "MARIA CANGANA LOYOLA",
+                        "votos": 1281
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16924700,
+                        "nombre": "FREDDY VI\u00d1ALES VI\u00d1ALES",
+                        "votos": 1252
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15085033,
+                        "nombre": "MARCELO ENCINA MU\u00d1OZ",
+                        "votos": 1138
+                    },
+                    {
+                        "genero": "F",
+                        "id": 8577508,
+                        "nombre": "DORIS NERTA NAVARRO FIGUEROA",
+                        "votos": 1084
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 4755
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 2377
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 1585
+                    }
+                ],
+                "totales": 4755
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10298243,
+                        "nombre": "CARMEN  MONTOYA MAYORGA",
+                        "votos": 1148
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7166120,
+                        "nombre": "CARLOS SOLAR BARRIOS",
+                        "votos": 1063
+                    },
+                    {
+                        "genero": "F",
+                        "id": 19952161,
+                        "nombre": "SIOMARA VANESSA MOLINA FLORES",
+                        "votos": 1063
+                    },
+                    {
+                        "genero": "M",
+                        "id": 14499183,
+                        "nombre": "PATRICIO MALDONADO LAVADO",
+                        "votos": 939
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 4213
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2106
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 1404
+                    }
+                ],
+                "totales": 4213
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 18183011,
+                        "nombre": "LILIANA IVANIA GONZALEZ CORTES",
+                        "votos": 1052
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7337534,
+                        "nombre": "JOSE ANTONIO GONZALEZ PIZARRO",
+                        "votos": 1026
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13645497,
+                        "nombre": "JOHANA CRISTINA RIVERA TEJERINA",
+                        "votos": 1001
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10952965,
+                        "nombre": "JOSE CRISTIAN MARDONES GALLARDO",
+                        "votos": 893
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 3972
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 1986
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 1324
+                    }
+                ],
+                "totales": 3972
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 16203260,
+                        "nombre": "DANIELA CASTRO ARAYA",
+                        "votos": 973
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16245075,
+                        "nombre": "PABLO POMAREDA ECHEVERRIA",
+                        "votos": 950
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14109173,
+                        "nombre": "KATHERINE LOPEZ RIVERA",
+                        "votos": 846
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6273728,
+                        "nombre": "NALTO  ESPINOZA HURTADO",
+                        "votos": 841
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 3610
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1805
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1203
+                    }
+                ],
+                "totales": 3610
+            }
+        ],
+        "zona": 5003
+    },
+    {
+        "cupos": 2,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 2777
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2457
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2253
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2168
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1852
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 1388
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 1228
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 1126
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1084
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 926
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 4",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15028221,
+                        "nombre": "CAROLINA DE LOS ANGELES CISTERNAS CEPEDA",
+                        "votos": 780
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17302195,
+                        "nombre": "JAIR ARIEL JOFRE HENRIQUEZ",
+                        "votos": 695
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17492607,
+                        "nombre": "DANIEL FRANCO PATRICIO FLORES SALINAS",
+                        "votos": 666
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17195164,
+                        "nombre": "JESSICA ALEJANDRA LIQUITAY MARTINEZ",
+                        "votos": 636
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 2777
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 1388
+                    }
+                ],
+                "totales": 2777
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 18445058,
+                        "nombre": "RAUL ARAYA ZEPEDA",
+                        "votos": 689
+                    },
+                    {
+                        "genero": "F",
+                        "id": 7921245,
+                        "nombre": "NORA LUISA VI\u00d1AS GODOY",
+                        "votos": 652
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7221693,
+                        "nombre": "NELSON DEL TRANSITO LOPEZ LOPEZ",
+                        "votos": 576
+                    },
+                    {
+                        "genero": "F",
+                        "id": 10609419,
+                        "nombre": "VERONICA TERESA GARRIDO BRICE\u00d1O",
+                        "votos": 540
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 2457
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 1228
+                    }
+                ],
+                "totales": 2457
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 11333630,
+                        "nombre": "PATRICIA DEL CARMEN HURTADO LOYOLA",
+                        "votos": 650
+                    },
+                    {
+                        "genero": "F",
+                        "id": 7134978,
+                        "nombre": "FRESIA MARIA SEPULVEDA HANCKES",
+                        "votos": 553
+                    },
+                    {
+                        "genero": "M",
+                        "id": 11724787,
+                        "nombre": "SEBASTIAN SIMON VEGA",
+                        "votos": 550
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6622672,
+                        "nombre": "PAUL ALEXANDER SFEIR RUBIO",
+                        "votos": 500
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 2253
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 1126
+                    }
+                ],
+                "totales": 2253
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 4102104,
+                        "nombre": "RICARDO NU\u00d1EZ MU\u00d1OZ",
+                        "votos": 581
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12940592,
+                        "nombre": "MARCELA ALEXANDRA ARAYA SEPULVEDA",
+                        "votos": 577
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14397114,
+                        "nombre": "YORKA ELISABETH QUINTEROS PEREZ",
+                        "votos": 507
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15610993,
+                        "nombre": "KENSSEL MIGUEL ROJAS CASTRO",
+                        "votos": 503
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 2168
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 1084
+                    }
+                ],
+                "totales": 2168
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 16559282,
+                        "nombre": "VITTORIO GHIGLINO BIANCHI",
+                        "votos": 493
+                    },
+                    {
+                        "genero": "M",
+                        "id": 11862663,
+                        "nombre": "GIOVANNI  CALDERON BASSI",
+                        "votos": 468
+                    },
+                    {
+                        "genero": "F",
+                        "id": 5175640,
+                        "nombre": "YORIS ROJAS VLASTELICA",
+                        "votos": 454
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13873240,
+                        "nombre": "MARIAPAZ MIRANDA CATALANO",
+                        "votos": 437
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 1852
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 926
+                    }
+                ],
+                "totales": 1852
+            }
+        ],
+        "zona": 5004
+    },
+    {
+        "cupos": 3,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 7971
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 7080
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 6420
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 6022
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 5273
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3985
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3540
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 3210
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 3011
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 2657
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2636
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2360
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2140
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2007
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1757
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 5",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 14005883,
+                        "nombre": "JACQUELINE ANDREA MILLA ORTIZ",
+                        "votos": 2136
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17655691,
+                        "nombre": "LILIBETH YUVIXI HUERTA CORTES",
+                        "votos": 2004
+                    },
+                    {
+                        "genero": "M",
+                        "id": 13330025,
+                        "nombre": "MANUEL ALEJANDRO CONTRERAS OLIVARES",
+                        "votos": 1975
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8005140,
+                        "nombre": "HECTOR RODOLFO ROSAS BUSTOS",
+                        "votos": 1856
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 7971
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 3985
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 2657
+                    }
+                ],
+                "totales": 7971
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10673960,
+                        "nombre": "ALEJANDRA ELENA VIVANCO REYES",
+                        "votos": 1975
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4678791,
+                        "nombre": "TOMAS ENRIQUE ALVARADO ZEPEDA",
+                        "votos": 1763
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12219704,
+                        "nombre": "SUSANA COLLAO NU\u00d1EZ",
+                        "votos": 1703
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9980104,
+                        "nombre": "JORGE INSUNZA GREGORIO DE LAS HERAS",
+                        "votos": 1639
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 7080
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 3540
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 2360
+                    }
+                ],
+                "totales": 7080
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 13330031,
+                        "nombre": "ANDRES EDUARDO GUERRA VEGA",
+                        "votos": 1770
+                    },
+                    {
+                        "genero": "F",
+                        "id": 9884617,
+                        "nombre": "MARIA TERESITA PROUVAY CORNEJO",
+                        "votos": 1615
+                    },
+                    {
+                        "genero": "F",
+                        "id": 9727794,
+                        "nombre": "GLORIA YOLANDA PAREDES DIAZ",
+                        "votos": 1550
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9330515,
+                        "nombre": "SERGIO HERNAN PINO VERGARA",
+                        "votos": 1485
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 6420
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 3210
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2140
+                    }
+                ],
+                "totales": 6420
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 19772148,
+                        "nombre": "VALERIA PATRICIA CHACANA ALARCON",
+                        "votos": 1558
+                    },
+                    {
+                        "genero": "M",
+                        "id": 14062522,
+                        "nombre": "FERNANDO ANTONIO VIVEROS REYES",
+                        "votos": 1552
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16944809,
+                        "nombre": "CAMILA NIDIA SABANDO VEGA",
+                        "votos": 1485
+                    },
+                    {
+                        "genero": "M",
+                        "id": 13177657,
+                        "nombre": "CARLOS GALLEGUILLOS CARVAJAL",
+                        "votos": 1427
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 6022
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 3011
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2007
+                    }
+                ],
+                "totales": 6022
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 8879813,
+                        "nombre": "IVON  GUERRA AGUILERA",
+                        "votos": 1405
+                    },
+                    {
+                        "genero": "M",
+                        "id": 12096351,
+                        "nombre": "JORGE VILLAR GUTIERREZ",
+                        "votos": 1309
+                    },
+                    {
+                        "genero": "M",
+                        "id": 19077132,
+                        "nombre": "GONZALO  PINOCHET ABARCA",
+                        "votos": 1286
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13533486,
+                        "nombre": "ANA MARIA AHUMADA GALLARDO",
+                        "votos": 1273
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 5273
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 2636
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1757
+                    }
+                ],
+                "totales": 5273
+            }
+        ],
+        "zona": 5005
+    },
+    {
+        "cupos": 5,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 25935
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 22450
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 19664
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 16931
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 12967
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 11225
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 9832
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 8645
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 8465
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 7483
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 6554
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 6483
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 5643
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 5612
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 5187
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 4916
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 4490
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 4232
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 3932
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 3386
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 6",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 16105082,
+                        "nombre": "CARLA NATALIA ALLENDES SOZA",
+                        "votos": 4716
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8500066,
+                        "nombre": "MARCO ANTONIO NU\u00d1EZ LOZANO",
+                        "votos": 4472
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6687951,
+                        "nombre": "MANUEL ARMANDO TOBAR LEIVA",
+                        "votos": 4327
+                    },
+                    {
+                        "genero": "F",
+                        "id": 18272557,
+                        "nombre": "JAZMIN MURILLO JORQUERA",
+                        "votos": 4281
+                    },
+                    {
+                        "genero": "F",
+                        "id": 7008999,
+                        "nombre": "DARMA ODETTE LOPEZ TORRES",
+                        "votos": 4158
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16332679,
+                        "nombre": "CHRISTIAN ANDRES INOSTROZA CABRERA",
+                        "votos": 3981
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 25935
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 12967
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 8645
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 6483
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 5187
+                    }
+                ],
+                "totales": 25935
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 16686002,
+                        "nombre": "MARIA DE LOS ANGELES LOPEZ PORFIRI",
+                        "votos": 3827
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16361211,
+                        "nombre": "RAIMUNDO JESUS PALAMARA STEWART",
+                        "votos": 3820
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14447560,
+                        "nombre": "TATIANA PAOLA BERNAL PARRA",
+                        "votos": 3803
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17355645,
+                        "nombre": "ANTONIO BARCHIESI CHAVEZ",
+                        "votos": 3774
+                    },
+                    {
+                        "genero": "F",
+                        "id": 8576244,
+                        "nombre": "CHANTAL ROBERT DE LA MAHOTIERE FLOTTES",
+                        "votos": 3666
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15541513,
+                        "nombre": "PEDRO RODOLFO SCHWEDELBACH PUGA",
+                        "votos": 3560
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 22450
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 11225
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 7483
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 5612
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 4490
+                    }
+                ],
+                "totales": 22450
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 6642777,
+                        "nombre": "ALDO  VALLE ACEVEDO",
+                        "votos": 3463
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16887738,
+                        "nombre": "MARIA SOLEDAD PARDO VERGARA",
+                        "votos": 3445
+                    },
+                    {
+                        "genero": "F",
+                        "id": 18282601,
+                        "nombre": "VALERIA ANGELICA CARCAMO VIDAL",
+                        "votos": 3326
+                    },
+                    {
+                        "genero": "M",
+                        "id": 5344795,
+                        "nombre": "MARCELO SCHILLING RODRIGUEZ",
+                        "votos": 3218
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13997900,
+                        "nombre": "CAROLINA PATRICIA FERNANDEZ QUEZADA",
+                        "votos": 3142
+                    },
+                    {
+                        "genero": "M",
+                        "id": 13068925,
+                        "nombre": "GONZALO ANDRES VEGA MORENO",
+                        "votos": 3070
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 19664
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 9832
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 6554
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 4916
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 3932
+                    }
+                ],
+                "totales": 19664
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 14138006,
+                        "nombre": "LESLIE BRIONES ROJO",
+                        "votos": 2984
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13544441,
+                        "nombre": "LUIGINA PRUZZO GUERRA",
+                        "votos": 2955
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4386100,
+                        "nombre": "GONZALO IBA\u00d1EZ SANTA MARIA",
+                        "votos": 2911
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16678544,
+                        "nombre": "VIVIANA  NU\u00d1EZ CARRASCO",
+                        "votos": 2722
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9012679,
+                        "nombre": "GONZALO YUSEFF QUIROS",
+                        "votos": 2695
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4721073,
+                        "nombre": "EDMUNDO ELUCHANS URENDA",
+                        "votos": 2664
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 16931
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 8465
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 5643
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 4232
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 3386
+                    }
+                ],
+                "totales": 16931
+            }
+        ],
+        "zona": 5006
+    },
+    {
+        "cupos": 5,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 62210
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 56181
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 51201
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 46084
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 41204
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 31105
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 28090
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 25600
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 23042
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 20736
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 20602
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 18727
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 17067
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 15552
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 15361
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 14045
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 13734
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 12800
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 12442
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 11521
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 11236
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 10301
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 10240
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 9216
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 8240
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 7",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 16244695,
+                        "nombre": "ELIZABETH RODRIGUEZ SIERRA",
+                        "votos": 10937
+                    },
+                    {
+                        "genero": "M",
+                        "id": 12892091,
+                        "nombre": "MAURICIO ANDRES PAVEZ GALAZ",
+                        "votos": 10786
+                    },
+                    {
+                        "genero": "F",
+                        "id": 11483597,
+                        "nombre": "CARMEN GLORIA GONZALEZ BURNS",
+                        "votos": 10334
+                    },
+                    {
+                        "genero": "M",
+                        "id": 19039122,
+                        "nombre": "RAMON ANTONIO LEONARDO HUIDOBRO LEIVA",
+                        "votos": 10246
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17952087,
+                        "nombre": "TAMARA ALEJANDRA RAMIREZ RAMIREZ",
+                        "votos": 10009
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8680065,
+                        "nombre": "GONZALO GERMAN INOJOSA HERNANDEZ",
+                        "votos": 9898
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 62210
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 31105
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 20736
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 15552
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 12442
+                    }
+                ],
+                "totales": 62210
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10055396,
+                        "nombre": "NATALIA PIERGENTILI DOMENECH",
+                        "votos": 9737
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7040289,
+                        "nombre": "ANDRES PALMA IRARRAZAVAL",
+                        "votos": 9660
+                    },
+                    {
+                        "genero": "F",
+                        "id": 4107128,
+                        "nombre": "CARMEN VICTORIA FREI RUIZ-TAGLE",
+                        "votos": 9410
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15342974,
+                        "nombre": "ANDRES EMILIO SEPULVEDA JIMENEZ",
+                        "votos": 9279
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14188439,
+                        "nombre": "PAZ SUAREZ BRIONES",
+                        "votos": 9101
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10800928,
+                        "nombre": "RODRIGO JOSE CHANDIA SOTO",
+                        "votos": 8994
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 56181
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 28090
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 18727
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 14045
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 11236
+                    }
+                ],
+                "totales": 56181
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 18531341,
+                        "nombre": "MACARENA DEL CARMEN BRAVO ROJAS",
+                        "votos": 8775
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17590387,
+                        "nombre": "TABITA SARAI SILVA LEIVA",
+                        "votos": 8729
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9024616,
+                        "nombre": "LUIS SILVA IRARRAZAVAL",
+                        "votos": 8688
+                    },
+                    {
+                        "genero": "M",
+                        "id": 18173007,
+                        "nombre": "IGNACIO ANDRES DULGER CASTILLO",
+                        "votos": 8534
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12068971,
+                        "nombre": "SYLVIA DEL CARMEN BUSTOS AGUIRRE",
+                        "votos": 8304
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16095244,
+                        "nombre": "JORGE JOSE OSSANDON SPOERER",
+                        "votos": 8171
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 51201
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 25600
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 17067
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 12800
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 10240
+                    }
+                ],
+                "totales": 51201
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 8077485,
+                        "nombre": "YERKO ANTONIO LJUBETIC GODOY",
+                        "votos": 8126
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13684095,
+                        "nombre": "KAREN VIVIANA ARAYA ROJAS",
+                        "votos": 7906
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17033397,
+                        "nombre": "CAMILA FERNANDA MIRANDA MEDINA",
+                        "votos": 7693
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16470244,
+                        "nombre": "ROCIO FERNANDA DONOSO PINEDA",
+                        "votos": 7583
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7077432,
+                        "nombre": "SADI MELO MOYA",
+                        "votos": 7571
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15382950,
+                        "nombre": "RODRIGO ALFONSO RETTIG VARGAS",
+                        "votos": 7205
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 46084
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 23042
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 15361
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 11521
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 9216
+                    }
+                ],
+                "totales": 46084
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 6069264,
+                        "nombre": "GLORIA HUTT HESSE",
+                        "votos": 7087
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4665925,
+                        "nombre": "JAIME RAVINET DE LA FUENTE",
+                        "votos": 7057
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7563445,
+                        "nombre": "BRUNO  BARANDA FERRAN",
+                        "votos": 6849
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13252861,
+                        "nombre": "ELEONORA ESPINOZA HERNANDEZ",
+                        "votos": 6786
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16071849,
+                        "nombre": "MARIA JOSE PUIGRREDON FIGUEROA",
+                        "votos": 6763
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8771203,
+                        "nombre": "RODRIGO  DELGADO MOCARQUER",
+                        "votos": 6662
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 41204
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 20602
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 13734
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 10301
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 8240
+                    }
+                ],
+                "totales": 41204
+            }
+        ],
+        "zona": 5007
+    },
+    {
+        "cupos": 3,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 10459
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 9353
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 8825
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 7786
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 7094
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 5229
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 4676
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 4412
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 3893
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 3547
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3486
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3117
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2941
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2595
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2364
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 8",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15787782,
+                        "nombre": "CAROL AROS SEGUEL",
+                        "votos": 2737
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7212608,
+                        "nombre": "LUIS FELIPE LORENZINI CLAVEL",
+                        "votos": 2674
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13033031,
+                        "nombre": "SUSAN EVELYN GOMEZ PARDO",
+                        "votos": 2633
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16843356,
+                        "nombre": "CARLOS SEBASTIAN GUERRA MORALES",
+                        "votos": 2415
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 10459
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 5229
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 3486
+                    }
+                ],
+                "totales": 10459
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 12911092,
+                        "nombre": "MARCIA ISABEL BARRERA CISTERNAS",
+                        "votos": 2449
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6651899,
+                        "nombre": "BERNARDO FRANCISCO ZAPATA ABARCA",
+                        "votos": 2326
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6101810,
+                        "nombre": "PEDRO ANDRES MARCHANT VILLANUEVA",
+                        "votos": 2318
+                    },
+                    {
+                        "genero": "F",
+                        "id": 11276885,
+                        "nombre": "MONICA LATORRE ROLDAN",
+                        "votos": 2260
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 9353
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 4676
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 3117
+                    }
+                ],
+                "totales": 9353
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10773416,
+                        "nombre": "ELISA AMELIA SALAS LOPEZ",
+                        "votos": 2319
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15385619,
+                        "nombre": "SEBASTIAN ALBERTO FIGUEROA MELO",
+                        "votos": 2191
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17408591,
+                        "nombre": "GABRIEL DOMINGUEZ VALDES",
+                        "votos": 2183
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12232600,
+                        "nombre": "PATRICIA BESA TAGLE",
+                        "votos": 2132
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 8825
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 4412
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2941
+                    }
+                ],
+                "totales": 8825
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 13561003,
+                        "nombre": "DOMINICA LEONOR GUZMAN ARCE",
+                        "votos": 1999
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17139066,
+                        "nombre": "RAISA TAMARA MARTINEZ MU\u00d1OZ",
+                        "votos": 1938
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17335724,
+                        "nombre": "DANIEL ALFONSO OLIVARES VIDAL",
+                        "votos": 1934
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4384763,
+                        "nombre": "MIGUEL  LITTIN CUCUMIDES",
+                        "votos": 1915
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 7786
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 3893
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2595
+                    }
+                ],
+                "totales": 7786
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 12913235,
+                        "nombre": "IVONNE MANGELSDORFF GALEB",
+                        "votos": 1833
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8525872,
+                        "nombre": "JUAN SUTIL SERVOIN",
+                        "votos": 1762
+                    },
+                    {
+                        "genero": "F",
+                        "id": 11278401,
+                        "nombre": "MARIA IGNACIA CASTRO ROJAS",
+                        "votos": 1756
+                    },
+                    {
+                        "genero": "M",
+                        "id": 20038517,
+                        "nombre": "VALENTIN  MATUS MARTINEZ",
+                        "votos": 1743
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 7094
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 3547
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 2364
+                    }
+                ],
+                "totales": 7094
+            }
+        ],
+        "zona": 5008
+    },
+    {
+        "cupos": 5,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 14455
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 12007
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 10699
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 9682
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 8652
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 7227
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 6003
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 5349
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 4841
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 4818
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 4326
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 4002
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3613
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 3566
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 3227
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 3001
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 2891
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2884
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2674
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2420
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2401
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2163
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2139
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1936
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 1730
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 9",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 9754223,
+                        "nombre": "BORIS HUMBERTO CHAVEZ ZAMBRANO",
+                        "votos": 2519
+                    },
+                    {
+                        "genero": "M",
+                        "id": 14288560,
+                        "nombre": "JORGE ENRIQUE ROJAS CARVAJAL",
+                        "votos": 2449
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15126874,
+                        "nombre": "VIVIANA DE LAS MERCEDES RODRIGUEZ SAAVEDRA",
+                        "votos": 2448
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16837359,
+                        "nombre": "FABIAN ANDRES RIOS LARA",
+                        "votos": 2420
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14200292,
+                        "nombre": "DINA CATHERINE CASTILLO CASTILLO",
+                        "votos": 2391
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14348730,
+                        "nombre": "SUSANA VERONICA PACHECO MARCOS",
+                        "votos": 2228
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 14455
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 7227
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 4818
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 3613
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 2891
+                    }
+                ],
+                "totales": 14455
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15754384,
+                        "nombre": "CAROLINA ALEJANDRA CONTRERAS RETAMAL",
+                        "votos": 2266
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16008078,
+                        "nombre": "PABLO IGNACIO VERDUGO VERGARA",
+                        "votos": 2155
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4388742,
+                        "nombre": "GUILLERMO CERONI FUENTES",
+                        "votos": 2125
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15989734,
+                        "nombre": "JACQUELINE JARA AVALOS",
+                        "votos": 2106
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 8652
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 4326
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 2884
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 2163
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 1730
+                    }
+                ],
+                "totales": 8652
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 9480453,
+                        "nombre": "MARIA GATICA GAJARDO",
+                        "votos": 2145
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13205274,
+                        "nombre": "GREIS MARISEL PARADA ROJAS",
+                        "votos": 2069
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6163989,
+                        "nombre": "RICARDO ORTEGA PERRIER",
+                        "votos": 2007
+                    },
+                    {
+                        "genero": "F",
+                        "id": 4831889,
+                        "nombre": "HILDA CECILIA TOLEDO FUENTES",
+                        "votos": 1979
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8087560,
+                        "nombre": "SEGUNDO ANDRES HOJAS DEL VALLE",
+                        "votos": 1914
+                    },
+                    {
+                        "genero": "M",
+                        "id": 19702708,
+                        "nombre": "MIGUEL ROJAS SOTO",
+                        "votos": 1893
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 12007
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 6003
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 4002
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 3001
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2401
+                    }
+                ],
+                "totales": 12007
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 17495971,
+                        "nombre": "ROCIO MARGARITA MOYA ROMERO",
+                        "votos": 1944
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9433193,
+                        "nombre": "MANUEL ARNOLDO AMESTICA GAETE",
+                        "votos": 1827
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17469709,
+                        "nombre": "CONSTANZA ANDREA PAVEZ ANDAUR",
+                        "votos": 1763
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17336793,
+                        "nombre": "SEBASTIAN HENRIQUEZ MU\u00d1OZ",
+                        "votos": 1732
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8158868,
+                        "nombre": "CHRISTIAN  SUAREZ CROTHERS",
+                        "votos": 1722
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12522490,
+                        "nombre": "ERNA MARJORIE MALDONADO CASANOVA",
+                        "votos": 1711
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 10699
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 5349
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 3566
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2674
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2139
+                    }
+                ],
+                "totales": 10699
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10483956,
+                        "nombre": "MARIA CLAUDIA JORQUERA CORIA",
+                        "votos": 1684
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8363183,
+                        "nombre": "MARIO  UNDURRAGA CASTELBLANCO",
+                        "votos": 1674
+                    },
+                    {
+                        "genero": "M",
+                        "id": 5093082,
+                        "nombre": "LUIS VALENTIN FERRADA VALENZUELA",
+                        "votos": 1621
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13231889,
+                        "nombre": "FERNANDA PINOCHET OLAVE",
+                        "votos": 1576
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13600685,
+                        "nombre": "MARLENNE DURAN SEGUEL",
+                        "votos": 1569
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16001930,
+                        "nombre": "CARLOS GONZALEZ HERRERA",
+                        "votos": 1558
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 9682
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 4841
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 3227
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 2420
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1936
+                    }
+                ],
+                "totales": 9682
+            }
+        ],
+        "zona": 5009
+    },
+    {
+        "cupos": 3,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 19724
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 17246
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 15576
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 13801
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 12855
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 9862
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 8623
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 7788
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 6900
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 6574
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 6427
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 5748
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 5192
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 4600
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 4285
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 10",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15657601,
+                        "nombre": "ASTRID STEPHANIE ABARZUA BRAVO",
+                        "votos": 5318
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9243488,
+                        "nombre": "HUGO ANTONIO SOTO BECERRA",
+                        "votos": 4935
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17007833,
+                        "nombre": "MIRTHA VICTORIA ENCINA OVALLE",
+                        "votos": 4830
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15627805,
+                        "nombre": "NELSON ALEXANDER CARES ORME\u00d1O",
+                        "votos": 4641
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 19724
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 9862
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 6574
+                    }
+                ],
+                "totales": 19724
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 17913563,
+                        "nombre": "NATALY YANIRA NEIRA MONTOYA",
+                        "votos": 4443
+                    },
+                    {
+                        "genero": "M",
+                        "id": 12086253,
+                        "nombre": "CRISTIAN DANIEL SAN MARTIN CARRASCO",
+                        "votos": 4355
+                    },
+                    {
+                        "genero": "F",
+                        "id": 10899219,
+                        "nombre": "ROSSANA ENRIQUEZ CASTILLO",
+                        "votos": 4322
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15616382,
+                        "nombre": "GABRIEL ALEJANDRO BENELLI PAREDES",
+                        "votos": 4126
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 17246
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 8623
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 5748
+                    }
+                ],
+                "totales": 17246
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10980343,
+                        "nombre": "PATRICIA SPOERER PRICE",
+                        "votos": 4187
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17592810,
+                        "nombre": "CLAUDIA POLETTE ORTEGA SAEZ",
+                        "votos": 3826
+                    },
+                    {
+                        "genero": "M",
+                        "id": 18137981,
+                        "nombre": "ALDO SANHUEZA CARRERA",
+                        "votos": 3816
+                    },
+                    {
+                        "genero": "M",
+                        "id": 13143472,
+                        "nombre": "CARLOS FRANCISCO ORDENES GATICA",
+                        "votos": 3747
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 15576
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 7788
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 5192
+                    }
+                ],
+                "totales": 15576
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 17516540,
+                        "nombre": "PALOMA IGNACIA ZU\u00d1IGA CERDA",
+                        "votos": 3559
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16215470,
+                        "nombre": "PABLO IGNACIO CUEVAS MU\u00d1OZ",
+                        "votos": 3504
+                    },
+                    {
+                        "genero": "M",
+                        "id": 12974034,
+                        "nombre": "CRISTIAN EDUARDO CARTES RUZ",
+                        "votos": 3379
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15593050,
+                        "nombre": "CAROLINA BEATRIZ MARTINEZ EBNER",
+                        "votos": 3359
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 13801
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 6900
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 4600
+                    }
+                ],
+                "totales": 13801
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 5756427,
+                        "nombre": "MONICA TRONCOSO SALINAS",
+                        "votos": 3449
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10254641,
+                        "nombre": "ROBERT CONTRERAS REYES",
+                        "votos": 3218
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16983698,
+                        "nombre": "VICTORIA PINCHEIRA POBLETE",
+                        "votos": 3155
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8226720,
+                        "nombre": "JORGE  ULLOA AGUILLON",
+                        "votos": 3033
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 12855
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 6427
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 4285
+                    }
+                ],
+                "totales": 12855
+            }
+        ],
+        "zona": 5010
+    },
+    {
+        "cupos": 5,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 14062
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 12536
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 11400
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 10384
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 9203
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 7031
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 6268
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 5700
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 5192
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 4687
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 4601
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 4178
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 3800
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3515
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 3461
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3134
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 3067
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2850
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 2812
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2596
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2507
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2300
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2280
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2076
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1840
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 11",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 12743015,
+                        "nombre": "PEDRO MARCELO BERMEDO LILLO",
+                        "votos": 2423
+                    },
+                    {
+                        "genero": "F",
+                        "id": 19379658,
+                        "nombre": "CONSTANZA ANAIS CARVACHO ESCALONA",
+                        "votos": 2407
+                    },
+                    {
+                        "genero": "F",
+                        "id": 10915395,
+                        "nombre": "FLOR ROSSANY CONTRERAS VIVALLO",
+                        "votos": 2332
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15661905,
+                        "nombre": "DANIELA PAZ MEDEL SANHUEZA",
+                        "votos": 2328
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17281207,
+                        "nombre": "CESAR CAMILO QUIJADA CONTRERAS",
+                        "votos": 2310
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15214271,
+                        "nombre": "ROBERTO ANDRES BASCU\u00d1AN SALDIAS",
+                        "votos": 2262
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 14062
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 7031
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 4687
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 3515
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 2812
+                    }
+                ],
+                "totales": 14062
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 12331341,
+                        "nombre": "KIRIA GLADYS ANTILEO MELLA",
+                        "votos": 2168
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9282652,
+                        "nombre": "ALFREDO VALLEJOS PROVOSTE",
+                        "votos": 2142
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12527957,
+                        "nombre": "MIRIAM PAOLA VALDES ZU\u00d1IGA",
+                        "votos": 2086
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17263186,
+                        "nombre": "FELIPE ESTEBAN CALFUNAO VARAS",
+                        "votos": 2073
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9021531,
+                        "nombre": "VICTOR HUGO HIRAM PACHECO SCHMIDT",
+                        "votos": 2055
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15388153,
+                        "nombre": "PAMELA ALEJANDRA TOLOZA BURGOS",
+                        "votos": 2012
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 12536
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 6268
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 4178
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 3134
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 2507
+                    }
+                ],
+                "totales": 12536
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15652835,
+                        "nombre": "MARIELA ANDREA FINCHEIRA MASSARDO",
+                        "votos": 2011
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15550237,
+                        "nombre": "MARIO GARCIA WESTERMEYER",
+                        "votos": 1948
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10457308,
+                        "nombre": "HECTOR  URBAN ASTETE",
+                        "votos": 1939
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13319116,
+                        "nombre": "LORETO ESTER CAMPANA MORALES",
+                        "votos": 1910
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16595075,
+                        "nombre": "STEFANI DEL PILAR ALARCON HERRERA",
+                        "votos": 1826
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16367320,
+                        "nombre": "MARTIN ANDRES KUSCHKE BELANDRINO",
+                        "votos": 1766
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 11400
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 5700
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 3800
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2850
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2280
+                    }
+                ],
+                "totales": 11400
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 11591149,
+                        "nombre": "JOSE ANTONIO JEREZ BURGOS",
+                        "votos": 1809
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12030611,
+                        "nombre": "GEMITA ALVAREZ SEPULVEDA",
+                        "votos": 1793
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8196077,
+                        "nombre": "RAUL ALLARD SOTO",
+                        "votos": 1781
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12192925,
+                        "nombre": "ERNA ANDREA QUIJON GODOY",
+                        "votos": 1758
+                    },
+                    {
+                        "genero": "F",
+                        "id": 18720009,
+                        "nombre": "KINTURAY CARLINA MELIN RAPIMAN",
+                        "votos": 1649
+                    },
+                    {
+                        "genero": "M",
+                        "id": 11686898,
+                        "nombre": "CHRISTIAN ROMAN DULANSKY ARAYA",
+                        "votos": 1594
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 10384
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 5192
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 3461
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2596
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2076
+                    }
+                ],
+                "totales": 10384
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 14166738,
+                        "nombre": "MAGDALENA TRAUB ETCHEGOYEN",
+                        "votos": 1599
+                    },
+                    {
+                        "genero": "F",
+                        "id": 7724817,
+                        "nombre": "SOLANGE CARMINE ROJAS",
+                        "votos": 1580
+                    },
+                    {
+                        "genero": "M",
+                        "id": 19244835,
+                        "nombre": "ARTURO PHILLIPS DORR",
+                        "votos": 1532
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12628019,
+                        "nombre": "CAROLINA LAGOS JOFRE",
+                        "votos": 1524
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16317068,
+                        "nombre": "JOSE LUIS HIDALGO PINO",
+                        "votos": 1518
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7701180,
+                        "nombre": "GERMAN BECKER ALVEAR",
+                        "votos": 1450
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 9203
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 4601
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 3067
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 2300
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1840
+                    }
+                ],
+                "totales": 9203
+            }
+        ],
+        "zona": 5011
+    },
+    {
+        "cupos": 3,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 6657
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 6057
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 5707
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 4808
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 4357
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3328
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3028
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2853
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2404
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 2219
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2178
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2019
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 1902
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1602
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1452
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 12",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10219549,
+                        "nombre": "MARIA SONIA AGUILEF GALLEGOS",
+                        "votos": 1745
+                    },
+                    {
+                        "genero": "F",
+                        "id": 10486198,
+                        "nombre": "EMMA PATRICIA CIFUENTES BARRIENTOS",
+                        "votos": 1713
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15354219,
+                        "nombre": "FRANCISCO ISIDORO HENRIQUEZ MU\u00d1OZ",
+                        "votos": 1644
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10836331,
+                        "nombre": "GUSTAVO EDUARDO DAVILA SEPULVEDA",
+                        "votos": 1555
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 6657
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 3328
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 2219
+                    }
+                ],
+                "totales": 6657
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 13817897,
+                        "nombre": "MARILA LORETO BARRIENTOS TRIVI\u00d1OS",
+                        "votos": 1585
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16805952,
+                        "nombre": "MADELIN YOSETTE JAU JARAMILLO",
+                        "votos": 1524
+                    },
+                    {
+                        "genero": "M",
+                        "id": 5280504,
+                        "nombre": "MIGUEL DAVID RAMIREZ CARVAJAL",
+                        "votos": 1516
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8897628,
+                        "nombre": "MIGUEL BARRIGA PARRA",
+                        "votos": 1432
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 6057
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 3028
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 2019
+                    }
+                ],
+                "totales": 6057
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 16096392,
+                        "nombre": "PAOLA FRANCESCA CLAVEROL MARTINEZ",
+                        "votos": 1482
+                    },
+                    {
+                        "genero": "F",
+                        "id": 10982517,
+                        "nombre": "PATRICIA LILIANA AYORA CAVOUR",
+                        "votos": 1441
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15797290,
+                        "nombre": "DANIEL ANDRES ARZOLA GARRIDO",
+                        "votos": 1426
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10488532,
+                        "nombre": "JORGE  DE LA MAZA SCHLEYER",
+                        "votos": 1358
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 5707
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2853
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 1902
+                    }
+                ],
+                "totales": 5707
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 6530889,
+                        "nombre": "ALEJANDRO KOHLER VARGAS",
+                        "votos": 1260
+                    },
+                    {
+                        "genero": "F",
+                        "id": 7143674,
+                        "nombre": "NANCY  SILVA GUERRERO",
+                        "votos": 1209
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8094886,
+                        "nombre": "OSCAR EDUARDO MENDOZA URIARTE",
+                        "votos": 1184
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16805216,
+                        "nombre": "VALERIA AMANDA OCHOA HINRICHSEN",
+                        "votos": 1155
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 4808
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2404
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 1602
+                    }
+                ],
+                "totales": 4808
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 7011719,
+                        "nombre": "JOSE ANTONIO URRUTIA RIESCO",
+                        "votos": 1131
+                    },
+                    {
+                        "genero": "F",
+                        "id": 18913745,
+                        "nombre": "LORENA GALLARDO CARDENAS",
+                        "votos": 1108
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15734731,
+                        "nombre": "PEDRO LAMAS GUTIERREZ",
+                        "votos": 1063
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14036888,
+                        "nombre": "CAROLA CABEZA FUENTES",
+                        "votos": 1055
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 4357
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 2178
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1452
+                    }
+                ],
+                "totales": 4357
+            }
+        ],
+        "zona": 5012
+    },
+    {
+        "cupos": 3,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 11924
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 10889
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 9759
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 9000
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 8216
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 5962
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 5444
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 4879
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 4500
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 4108
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3974
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3629
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 3253
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 3000
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2738
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 13",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15645102,
+                        "nombre": "ROSA ALEJANDRA ANDRADE MANQUEMILLA",
+                        "votos": 3041
+                    },
+                    {
+                        "genero": "M",
+                        "id": 18493072,
+                        "nombre": "ALVARO FABIAN OJEDA ALVARADO",
+                        "votos": 3019
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15298375,
+                        "nombre": "LORENA DENISSE LEICHTLE BERTIN",
+                        "votos": 2983
+                    },
+                    {
+                        "genero": "M",
+                        "id": 12713168,
+                        "nombre": "GUILLERMO ENRIQUE PALACIOS CONTRERAS",
+                        "votos": 2881
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 11924
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 5962
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 3974
+                    }
+                ],
+                "totales": 11924
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 17639434,
+                        "nombre": "CAROLINA  GARCIA VERA",
+                        "votos": 2817
+                    },
+                    {
+                        "genero": "F",
+                        "id": 8418777,
+                        "nombre": "GLORIA MARITZA HURTADO GARAY",
+                        "votos": 2744
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8143228,
+                        "nombre": "JUAN CARLOS DUHALDE ROMERO",
+                        "votos": 2698
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17742839,
+                        "nombre": "EDUARDO RAUL ALVAREZ VIDAL",
+                        "votos": 2630
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 10889
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 5444
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 3629
+                    }
+                ],
+                "totales": 10889
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 18239161,
+                        "nombre": "BEATRIZ ISABEL HEVIA WILLER",
+                        "votos": 2479
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8722148,
+                        "nombre": "MAXIMILIANO ARTURO URRUTIA QUEZADA",
+                        "votos": 2443
+                    },
+                    {
+                        "genero": "M",
+                        "id": 21104846,
+                        "nombre": "FERNANDO SEBASTIAN BARRIA OYARZO",
+                        "votos": 2441
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13901251,
+                        "nombre": "LORENA ESTER PEREZ TORO",
+                        "votos": 2396
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 9759
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 4879
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 3253
+                    }
+                ],
+                "totales": 9759
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 7907269,
+                        "nombre": "EDUARDO CASTRO RIOS",
+                        "votos": 2385
+                    },
+                    {
+                        "genero": "F",
+                        "id": 13850107,
+                        "nombre": "NANCY CAROLA MARQUEZ GONZALEZ",
+                        "votos": 2265
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16349659,
+                        "nombre": "SAMUEL ANDRES GALVEZ DERPICH",
+                        "votos": 2194
+                    },
+                    {
+                        "genero": "F",
+                        "id": 11926917,
+                        "nombre": "YANINA BEATRIZ DIAZ MAYORGA",
+                        "votos": 2156
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 9000
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 4500
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 3000
+                    }
+                ],
+                "totales": 9000
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 6928545,
+                        "nombre": "EVELYN  ZOTTELE GARCIA",
+                        "votos": 2148
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7832398,
+                        "nombre": "CARLOS  RECONDO LAVANDEROS",
+                        "votos": 2045
+                    },
+                    {
+                        "genero": "F",
+                        "id": 8692707,
+                        "nombre": "PATRICIA SANZANA CARDENAS",
+                        "votos": 2016
+                    },
+                    {
+                        "genero": "M",
+                        "id": 15382418,
+                        "nombre": "JUAN LUIS OSSA SANTA CRUZ",
+                        "votos": 2007
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 8216
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 4108
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 2738
+                    }
+                ],
+                "totales": 8216
+            }
+        ],
+        "zona": 5013
+    },
+    {
+        "cupos": 2,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 2039
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 1887
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 1728
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1536
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1449
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 1019
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 943
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 864
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 768
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 724
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 14",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 9054033,
+                        "nombre": "LUIS ALBERTO SOTO SOTO",
+                        "votos": 544
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15965296,
+                        "nombre": "PAULINA ALEJANDRA PEREZ RUBILAR",
+                        "votos": 529
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15968809,
+                        "nombre": "SANDRA ANGELICA MANSILLA ARRIAGADA",
+                        "votos": 512
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10933275,
+                        "nombre": "JUAN MARIO REYES URIBE",
+                        "votos": 454
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 2039
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 1019
+                    }
+                ],
+                "totales": 2039
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 12001523,
+                        "nombre": "ELVIS GODOY FURNIER",
+                        "votos": 511
+                    },
+                    {
+                        "genero": "F",
+                        "id": 15965291,
+                        "nombre": "TAMARA YOSELINE VILLEGAS REDLICH",
+                        "votos": 476
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16534062,
+                        "nombre": "PAOLA VELASQUEZ MANSILLA",
+                        "votos": 459
+                    },
+                    {
+                        "genero": "M",
+                        "id": 3244592,
+                        "nombre": "ANDRES ZALDIVAR LARRAIN",
+                        "votos": 441
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 1887
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 943
+                    }
+                ],
+                "totales": 1887
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 15304860,
+                        "nombre": "LUZ VALERIA VILLEGAS OJEDA",
+                        "votos": 459
+                    },
+                    {
+                        "genero": "F",
+                        "id": 9853314,
+                        "nombre": "NIEVES ANTONIA CUEVAS TORRES",
+                        "votos": 441
+                    },
+                    {
+                        "genero": "M",
+                        "id": 17602172,
+                        "nombre": "FERNANDO EDUARDO AUGUSTO SAN CRISTOBAL BRAHM",
+                        "votos": 430
+                    },
+                    {
+                        "genero": "M",
+                        "id": 20318005,
+                        "nombre": "JOSUE NATANAEL MILLANAO PEZO",
+                        "votos": 398
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 1728
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 864
+                    }
+                ],
+                "totales": 1728
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 8687334,
+                        "nombre": "VALENTINA GABRIELA MILLALONCO VARGAS",
+                        "votos": 403
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16684435,
+                        "nombre": "ERWIN SANDOVAL GALLARDO",
+                        "votos": 398
+                    },
+                    {
+                        "genero": "F",
+                        "id": 9893634,
+                        "nombre": "LORENA  SOZA HERNANDEZ",
+                        "votos": 383
+                    },
+                    {
+                        "genero": "M",
+                        "id": 13244595,
+                        "nombre": "JULIO FRANCISCO \u00d1ANCO ANTILEF",
+                        "votos": 352
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 1536
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 768
+                    }
+                ],
+                "totales": 1536
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 9065357,
+                        "nombre": "PILAR CUEVAS MARDONES",
+                        "votos": 387
+                    },
+                    {
+                        "genero": "M",
+                        "id": 11890533,
+                        "nombre": "CRISTIAN SUAZO CHACON",
+                        "votos": 370
+                    },
+                    {
+                        "genero": "M",
+                        "id": 18282101,
+                        "nombre": "DIEGO SILVA BARRERA",
+                        "votos": 370
+                    },
+                    {
+                        "genero": "F",
+                        "id": 10335642,
+                        "nombre": "ANDREA  PONCE OLIVARES",
+                        "votos": 322
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 1449
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 724
+                    }
+                ],
+                "totales": 1449
+            }
+        ],
+        "zona": 5014
+    },
+    {
+        "cupos": 2,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 2989
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2684
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2354
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2073
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 1522
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 1494
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 1342
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 1177
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 1036
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 761
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 15",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 10676684,
+                        "nombre": "ANDREA PIVCEVIC CORTESE",
+                        "votos": 825
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16964848,
+                        "nombre": "IGNACIO ANDRES QUIJADA LONCHARIC",
+                        "votos": 749
+                    },
+                    {
+                        "genero": "F",
+                        "id": 19861939,
+                        "nombre": "VICTORIA TRAPP MOREIRA",
+                        "votos": 745
+                    },
+                    {
+                        "genero": "M",
+                        "id": 8233596,
+                        "nombre": "VICTOR MAURICIO HERNANDEZ GODOY",
+                        "votos": 670
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 2989
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 1494
+                    }
+                ],
+                "totales": 2989
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 7689686,
+                        "nombre": "VERONICA DEL CARMEN ROJAS ARENAS",
+                        "votos": 792
+                    },
+                    {
+                        "genero": "M",
+                        "id": 11401637,
+                        "nombre": "MARCELO ANDRES TOLEDO TOLEDO",
+                        "votos": 730
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 1522
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 761
+                    }
+                ],
+                "totales": 1522
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 12382102,
+                        "nombre": "VICTOR HERNAN ARAVENA GUTIERREZ",
+                        "votos": 778
+                    },
+                    {
+                        "genero": "F",
+                        "id": 14744752,
+                        "nombre": "LUZ HELENA GUZMAN GARCIA",
+                        "votos": 666
+                    },
+                    {
+                        "genero": "F",
+                        "id": 16163658,
+                        "nombre": "CLAUDIA ALEJANDRA MAC-LEAN BRAVO",
+                        "votos": 638
+                    },
+                    {
+                        "genero": "M",
+                        "id": 5842527,
+                        "nombre": "ROBERT KURT WEISSOHN HECK",
+                        "votos": 602
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 2684
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 1342
+                    }
+                ],
+                "totales": 2684
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 9313223,
+                        "nombre": "JESSICA MILENA BENGOA MAYORGA",
+                        "votos": 608
+                    },
+                    {
+                        "genero": "F",
+                        "id": 21139205,
+                        "nombre": "CONSTANZA MONSERRAT AGUILAR HERRERA",
+                        "votos": 604
+                    },
+                    {
+                        "genero": "M",
+                        "id": 12253804,
+                        "nombre": "PABLO BUSSENIUS CORNEJO",
+                        "votos": 582
+                    },
+                    {
+                        "genero": "M",
+                        "id": 7406584,
+                        "nombre": "JULIO GASTON CONTRERAS MU\u00d1OZ",
+                        "votos": 560
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 2354
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 1177
+                    }
+                ],
+                "totales": 2354
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 14476262,
+                        "nombre": "CECILIA CARDENAS REYES",
+                        "votos": 536
+                    },
+                    {
+                        "genero": "M",
+                        "id": 4814138,
+                        "nombre": "ALFONSO CAMPOS GONZALEZ",
+                        "votos": 526
+                    },
+                    {
+                        "genero": "M",
+                        "id": 10050616,
+                        "nombre": "ARIEL MIHOVILOVIC BONARDI",
+                        "votos": 510
+                    },
+                    {
+                        "genero": "F",
+                        "id": 12722201,
+                        "nombre": "FRANCISCA ROJAS PHILIPPI",
+                        "votos": 501
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 2073
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 1036
+                    }
+                ],
+                "totales": 2073
+            }
+        ],
+        "zona": 5015
+    },
+    {
+        "cupos": 2,
+        "electos": [],
+        "mayorias": [
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 6086
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 5424
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 4909
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 4198
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 3480
+            },
+            {
+                "nombre": "TODO POR CHILE",
+                "pacto": "B",
+                "votos": 3043
+            },
+            {
+                "nombre": "PARTIDO REPUBLICANO",
+                "pacto": "C",
+                "votos": 2712
+            },
+            {
+                "nombre": "UNIDAD PARA CHILE",
+                "pacto": "D",
+                "votos": 2454
+            },
+            {
+                "nombre": "CHILE SEGURO",
+                "pacto": "E",
+                "votos": 2099
+            },
+            {
+                "nombre": "PARTIDO DE LA GENTE",
+                "pacto": "A",
+                "votos": 1740
+            }
+        ],
+        "nombre": "CIRCUNSCRIPCI\u00d3N SENATORIAL 16",
+        "pactos": [
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 7460922,
+                        "nombre": "MIGUEL ANGEL SEGUNDO CHAVEZ MENDOZA",
+                        "votos": 1818
+                    },
+                    {
+                        "genero": "F",
+                        "id": 18411946,
+                        "nombre": "ETTY SCARLETTE SOLIS CANDIA",
+                        "votos": 1662
+                    }
+                ],
+                "id": "A",
+                "mayorias": [
+                    {
+                        "pacto": "A",
+                        "votos": 3480
+                    },
+                    {
+                        "pacto": "A",
+                        "votos": 1740
+                    }
+                ],
+                "totales": 3480
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 5797138,
+                        "nombre": "OLGA MARIA ARZOLA SOTO",
+                        "votos": 1604
+                    },
+                    {
+                        "genero": "M",
+                        "id": 6317119,
+                        "nombre": "RICARDO IVAN ORELLANA ROJAS",
+                        "votos": 1511
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17248502,
+                        "nombre": "CAMILA TORRES UMANZOR",
+                        "votos": 1499
+                    },
+                    {
+                        "genero": "M",
+                        "id": 5106131,
+                        "nombre": "ALDO DINO JOSE BERNUCCI DIAZ",
+                        "votos": 1472
+                    }
+                ],
+                "id": "B",
+                "mayorias": [
+                    {
+                        "pacto": "B",
+                        "votos": 6086
+                    },
+                    {
+                        "pacto": "B",
+                        "votos": 3043
+                    }
+                ],
+                "totales": 6086
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 5537755,
+                        "nombre": "MARIA ELENA ACU\u00d1A OLIVERA",
+                        "votos": 1405
+                    },
+                    {
+                        "genero": "M",
+                        "id": 9043304,
+                        "nombre": "ABRAHAM MANUEL GONZALEZ OLAVE",
+                        "votos": 1385
+                    },
+                    {
+                        "genero": "F",
+                        "id": 10426670,
+                        "nombre": "CECILIA VIOLETA MEDINA MENESES",
+                        "votos": 1322
+                    },
+                    {
+                        "genero": "M",
+                        "id": 11863307,
+                        "nombre": "JUAN LUIS ENRIQUEZ FUENTES",
+                        "votos": 1312
+                    }
+                ],
+                "id": "C",
+                "mayorias": [
+                    {
+                        "pacto": "C",
+                        "votos": 5424
+                    },
+                    {
+                        "pacto": "C",
+                        "votos": 2712
+                    }
+                ],
+                "totales": 5424
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "M",
+                        "id": 11533584,
+                        "nombre": "JOSE OSVALDO ZU\u00d1IGA PINO",
+                        "votos": 1289
+                    },
+                    {
+                        "genero": "M",
+                        "id": 16445608,
+                        "nombre": "CLAUDIO ANDRES FERRADA ALARCON",
+                        "votos": 1231
+                    },
+                    {
+                        "genero": "F",
+                        "id": 17459786,
+                        "nombre": "JOSEFA JAVIERA DEL PILAR BALMACEDA VASQUEZ",
+                        "votos": 1195
+                    },
+                    {
+                        "genero": "F",
+                        "id": 9813500,
+                        "nombre": "BRIGIDA ELIZABETH ESCALONA GONZALEZ",
+                        "votos": 1194
+                    }
+                ],
+                "id": "D",
+                "mayorias": [
+                    {
+                        "pacto": "D",
+                        "votos": 4909
+                    },
+                    {
+                        "pacto": "D",
+                        "votos": 2454
+                    }
+                ],
+                "totales": 4909
+            },
+            {
+                "candidatos": [
+                    {
+                        "genero": "F",
+                        "id": 17459257,
+                        "nombre": "CAROLINA  NAVARRETE RUBIO",
+                        "votos": 1120
+                    },
+                    {
+                        "genero": "M",
+                        "id": 18390168,
+                        "nombre": "JORGE  CARRILLO VILLALOBOS",
+                        "votos": 1113
+                    },
+                    {
+                        "genero": "F",
+                        "id": 8680695,
+                        "nombre": "SANDRA LAMA LARENAS",
+                        "votos": 1024
+                    },
+                    {
+                        "genero": "M",
+                        "id": 3929106,
+                        "nombre": "MARIO RIOS SANTANDER",
+                        "votos": 941
+                    }
+                ],
+                "id": "E",
+                "mayorias": [
+                    {
+                        "pacto": "E",
+                        "votos": 4198
+                    },
+                    {
+                        "pacto": "E",
+                        "votos": 2099
+                    }
+                ],
+                "totales": 4198
+            }
+        ],
+        "zona": 5016
+    }
+]
