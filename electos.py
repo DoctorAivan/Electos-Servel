@@ -78,6 +78,38 @@ dic_pactos = {
     'E' : 'CHILE SEGURO'
 }
 
+# Pactos Totales
+dic_pactos_totales = []
+dic_pactos_electos = [
+    {
+        'id' : 'A',
+        'electos' : 0,
+        'votos' : 0
+    },
+    {
+        'id' : 'B',
+        'electos' : 0,
+        'votos' : 0
+    },
+    {
+        'id' : 'C',
+        'electos' : 0,
+        'votos' : 0
+    },
+    {
+        'id' : 'D',
+        'electos' : 0,
+        'votos' : 0
+    },
+    {
+        'id' : 'E',
+        'electos' : 0,
+        'votos' : 0
+    }
+]
+dic_zonas_electos = []
+dic_zonas_electos_finales = []
+
 # Librerias de Servel
 class Servel():
 
@@ -95,6 +127,47 @@ class Servel():
             print(f"Error al conectarse a la base de datos: {e}")
             return None
 
+    # Obtener Votos en las Regiones
+    def regiones(self):
+
+        cursor = self.conn.cursor()
+
+        cursor.execute(f"""
+
+            SELECT
+                zonas.glosa_zona,
+                zonas.cod_zona,
+                votaciones.ambito,
+                votaciones.votos
+
+            FROM
+                zonas,
+                votaciones
+
+            WHERE
+                zonas.tipo_zona = 'S' AND
+                votaciones.ambito = 7 AND
+                votaciones.tipo_zona = 'S' AND
+                votaciones.cod_zona = zonas.cod_zona
+
+            ORDER BY
+                zonas.orden_zona ASC,
+                votaciones.ambito ASC
+
+        """)
+
+        column_names = [description[0] for description in cursor.description]
+        resultados = cursor.fetchall()
+
+        votos = []
+
+        for resultado in resultados:
+            r = {column_names[k]: item for k, item in enumerate(resultado)}
+
+            votos.append(r)
+
+        return votos
+
     # Obtener el listado de Candidatos
     def candidatos(self):
 
@@ -105,6 +178,7 @@ class Servel():
             SELECT
                 candidatos.*,
                 pactos.*,
+                partidos.*,
                 votaciones.votos,
                 votaciones.porcentaje_votos,
                 votaciones.ganador
@@ -112,10 +186,12 @@ class Servel():
             FROM
                 candidatos,
                 pactos,
+                partidos,
                 votaciones
 
             WHERE
                 pactos.cod_pacto = candidatos.cod_pacto AND
+                partidos.cod_part = candidatos.cod_part AND
                 votaciones.ambito = 4 AND
                 votaciones.tipo_zona = 'S' AND
                 votaciones.cod_ambito = candidatos.cod_cand AND
@@ -141,7 +217,7 @@ class Servel():
 class Task():
 
     # Obtener datos
-    def zonas_base(candidatos):
+    def zonas_base(candidatos, region_votos):
 
         # Listado de Regiones
         regiones = {}
@@ -174,10 +250,31 @@ class Task():
                     'id' : candidato['cod_cand'],
                     'nombre' : candidato['glosa_cand'],
                     'genero' : candidato['cod_genero'],
+                    'pacto' : candidato['letra_pacto'],
+                    'partido' : candidato['sigla_part'],
                     'votos' : candidato['votos'],
                 })
 
                 regiones[candidato_zona]['pactos'][candidato_pacto]['totales'] += candidato['votos']
+
+        for region in dic_regiones:
+
+            votos_validos = [item for item in region_votos if item["cod_zona"] == region]
+
+            dic_zonas_electos.append({
+                'id' : region,
+                'nombre' : dic_regiones[region]['nombre'],
+                'cupos' : dic_regiones[region]['cupos'],
+                'validos' : votos_validos[0]['votos'],
+                'pactos' : []
+            })
+
+            dic_zonas_electos_finales.append({
+                'id' : region,
+                'nombre' : dic_regiones[region]['nombre'],
+                'cupos' : dic_regiones[region]['cupos'],
+                'electos' : []
+            })
 
         return regiones
 
@@ -259,7 +356,109 @@ class Task():
                 # Ordenar las mayorias de la zona
                 zona[0]['mayorias'].sort(key=lambda x: x.get('votos'), reverse=True)
 
+        # Asignar totales nacionales
+        for region in regiones:
+
+            # Iterar en los pactos
+            for pacto in region['pactos']:
+
+                # Obtener la letra del pacto
+                pacto_id = pacto['id']
+
+                # Validar si el nodo existe
+                if not any(d['pacto'] == pacto_id for d in dic_pactos_totales):
+                    dic_pactos_totales.append({
+                        'pacto' : pacto_id,
+                        'votos' : 0
+                    })
+
+                # Obtener el pacto
+                pacto_total = [item for item in dic_pactos_electos if item['id'] == pacto_id]
+                pacto_total[0]['votos'] += pacto['totales']
+
         return regiones
+
+    # Buscar un nodo en un array
+    def find(array = [] , key = '' , value = ''):
+        respuesta = [item for item in array if item[key] == value]
+        return respuesta
+
+    def validar_electos(zona = 0, pacto = '', candidatos=[]):
+
+        # Buscar el Pacto
+        zona = Task.find(array = dic_zonas_electos_finales,
+                        key = 'id',
+                        value = zona)
+        
+        candidatos_hombres = Task.find(array = candidatos,
+                                key = 'genero',
+                                value = 'M')
+        
+        candidatos_mujeres = Task.find(array = candidatos,
+                                key = 'genero',
+                                value = 'F')
+
+        #       -       -       -       -       -       -       -       -
+
+        # Validar Zonas de 2 Cupos
+        if( zona[0]['cupos'] == 2 ):
+
+            # Se ingresa la primera mayoria
+            if( len(zona[0]['electos']) == 0):
+                zona[0]['electos'].append( candidatos[0] )
+
+            # Validamos el Genero del segundo candidato para rectificar paridad
+            else:
+                genero_anterior = zona[0]['electos']
+                
+                # Validar la paridad de genero en la zona
+                if( genero_anterior[0]['genero'] == 'F' ):
+                    zona[0]['electos'].append( candidatos_hombres[0] )
+                else:
+                    zona[0]['electos'].append( candidatos_mujeres[0] )
+
+        #       -       -       -       -       -       -       -       -
+
+        # Validar Zonas de 3 Cupos
+        if( zona[0]['cupos'] == 3 ):
+
+            # Se ingresa la primera mayoria
+            if( len(zona[0]['electos']) == 0):
+                zona[0]['electos'].append( candidatos[0] )
+
+            # Se ingresa la segunda mayoria
+            elif( len(zona[0]['electos']) == 1):
+                zona[0]['electos'].append( candidatos[0] )
+
+            # Validamos el Genero del tercer candidato para rectificar paridad
+            elif( len(zona[0]['electos']) == 2):
+
+                total_hombres = 0
+                total_mujeres = 0
+
+                candidatos_electos = zona[0]['electos']
+
+                for candidato in candidatos_electos:
+
+                    if( candidato['genero'] == 'M' ):
+                        total_hombres += 1
+                    else:
+                        total_mujeres += 1
+
+                if( total_hombres == 2 ):
+                    zona[0]['electos'].append( candidatos_mujeres[0] )
+                elif( total_mujeres == 2 ):
+                    zona[0]['electos'].append( candidatos_hombres[0] )
+                else:
+                    zona[0]['electos'].append( candidatos[0] )
+
+                print('Hombres' , total_hombres , '-', 'Mujeres' , total_mujeres )
+
+        #       -       -       -       -       -       -       -       -
+
+        if( zona[0]['cupos'] == 5 ):
+            pass
+
 
 # Iniciar
 if __name__ == '__main__':
@@ -268,8 +467,11 @@ if __name__ == '__main__':
     query = Servel()
     candidatos = query.candidatos()
 
+    query_regiones = Servel()
+    region_votos = query_regiones.regiones()
+
     # Obtener estructura Base
-    datos = Task.zonas_base(candidatos)
+    datos = Task.zonas_base(candidatos , region_votos)
 
     # Obtener estructura y sus mayorias
     regiones = Task.zonas_mayorias(candidatos)
@@ -279,28 +481,85 @@ if __name__ == '__main__':
     # Ordenar Zonas por ID
     regiones.sort(key=lambda x: x.get('zona'))
 
-    print(' ')
+    #print(' ')
 
     for region in regiones:
-        print(region['nombre'], ' - CUPOS:', region['cupos'])
 
         index = 1
         for mayoria in region['mayorias']:
 
             if index <= region['cupos']:
-                print(index, ')' , mayoria['pacto'] ,  mayoria['nombre'] , mayoria['votos'])
 
-                candidatos = [item for item in region['pactos'] if item['id'] == mayoria['pacto']]
+                # Buscar la Region
+                region_electos = Task.find(array = dic_zonas_electos,
+                                        key = 'id',
+                                        value = region['zona'])
 
-                candidato_nombre = candidatos[0]['candidatos'][0]['nombre']
-                candidato_votos = candidatos[0]['candidatos'][0]['votos']
-                candidato_genero = candidatos[0]['candidatos'][0]['genero']
-
-                print( '    ', candidato_genero, ')', candidato_nombre, candidato_votos )
+                region_electos[0]['pactos'].append({
+                    'id' : mayoria['pacto'],
+                    'votos' : mayoria['votos'],
+                    'electos' : []
+                })
 
             index += 1
 
-        print('-        -       -       -       -')
+    dic_pactos_totales.sort(key=lambda x: x.get('votos'), reverse=False)
+
+    #       -       -       -       -       -       -       -       -       -       -
+
+    print('-        -       -       -       -       -       -       -       -')
+
+    dic_zonas_electos.sort(key=lambda x: x.get('id'), reverse=False)
+
+    for zona_electos in dic_zonas_electos:
+
+        print( zona_electos['id'] , '-' , zona_electos['nombre'] , f"- Escaños : {zona_electos['cupos']}" )
+
+        # Buscar el Pacto
+        zona_pactos = Task.find(array = regiones,
+                                key = 'zona',
+                                value = zona_electos['id'])
+
+        # Enlistar los Pactos electos de la zona por Mayoria
+        for pacto in zona_electos['pactos']:
+
+            # Buscar el Pacto
+            pacto_total = Task.find(array = dic_pactos_electos,
+                                    key = 'id',
+                                    value = pacto['id'])
+            
+            # Buscar el Pacto
+            pacto_candidatos = Task.find(array = zona_pactos[0]['pactos'],
+                                    key = 'id',
+                                    value = pacto['id'])
+            
+            # Buscar el Pacto
+            candidatos_hombres = Task.find(array = pacto_candidatos[0]['candidatos'],
+                                    key = 'genero',
+                                    value = 'M')
+            
+            candidatos_mujeres = Task.find(array = pacto_candidatos[0]['candidatos'],
+                                    key = 'genero',
+                                    value = 'F')
+
+
+            Task.validar_electos(zona = zona_electos['id'],
+                                 pacto = pacto['id'],
+                                 candidatos = pacto_candidatos[0]['candidatos'])
+
+            print( pacto['id'] , pacto_candidatos[0]['candidatos'][0]['nombre'] )
+
+            # Sumar a candidatos electos
+            pacto_total[0]['electos'] += 1
+
+        print('-        -       -       -       -       -       -       -       -')
+
+    #       -       -       -       -       -       -       -       -       -       -
+
+    print('ELECTOS POR PACTO')
+
+    for pacto_electos in dic_pactos_electos:
+        print( '>' , pacto_electos['id'] , ':' , pacto_electos['electos'] , '-' , 'votos' , ':' , pacto_electos['votos'] )
 
     # Crear Json Dump 
     json_dump = json.dumps(regiones, indent=4, sort_keys=True)
@@ -309,5 +568,15 @@ if __name__ == '__main__':
     file = open("electos.json", "w")
     file.write(json_dump)
     file.close()
+
+    print(' ')
+    
+    for zona_electos in dic_zonas_electos_finales:
+        print( zona_electos['id'] , '-' , zona_electos['nombre'] , f"- Escaños : {zona_electos['cupos']}" )
+
+        for electo in zona_electos['electos']:
+            print(electo['pacto'] , electo['genero'] , electo['votos'] , electo['nombre'] )
+
+        print(' ')
 
     print("Json Creado")

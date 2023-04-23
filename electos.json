@@ -62,24 +62,32 @@
                         "genero": "M",
                         "id": 16556928,
                         "nombre": "SERGIO HUMBERTO RIOS GAMBOA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 957
                     },
                     {
                         "genero": "F",
                         "id": 13412628,
                         "nombre": "NORA DEL CARMEN BUGUE\u00d1O AGUILERA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 897
                     },
                     {
                         "genero": "F",
                         "id": 14102768,
                         "nombre": "KARLA ANGELICA A\u00d1ES GAJARDO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 872
                     },
                     {
                         "genero": "M",
                         "id": 10728965,
                         "nombre": "ERNESTO RODRIGO PLASENCIA ROJAS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 826
                     }
                 ],
@@ -102,24 +110,32 @@
                         "genero": "F",
                         "id": 13863895,
                         "nombre": "MACARENA RIVEROS OYARZO",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 879
                     },
                     {
                         "genero": "M",
                         "id": 4738039,
                         "nombre": "SALVADOR URRUTIA CARDENAS",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 860
                     },
                     {
                         "genero": "M",
                         "id": 4847637,
                         "nombre": "RAUL RAMON CASTRO LETELIER",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 751
                     },
                     {
                         "genero": "F",
                         "id": 11888643,
                         "nombre": "GLORIA LILLO REBOLLEDO",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 748
                     }
                 ],
@@ -142,24 +158,32 @@
                         "genero": "F",
                         "id": 11505821,
                         "nombre": "JACQUELINE CAROLINA BOERO CARVAJAL",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 763
                     },
                     {
                         "genero": "M",
                         "id": 20218020,
                         "nombre": "DIEGO ALBERTO VARGAS CASTILLO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 720
                     },
                     {
                         "genero": "F",
                         "id": 20217726,
                         "nombre": "FRANCISCA MARINA CAVIERES DIAZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 701
                     },
                     {
                         "genero": "M",
                         "id": 7214480,
                         "nombre": "CARLOS MIGUEL ALVARADO AGUIRRE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 674
                     }
                 ],
@@ -182,24 +206,32 @@
                         "genero": "F",
                         "id": 13415976,
                         "nombre": "JOCELYN  ORME\u00d1O LEE",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 648
                     },
                     {
                         "genero": "F",
                         "id": 5501238,
                         "nombre": "MIRIAM ARENAS SANDOVAL",
+                        "pacto": "D",
+                        "partido": "PL",
                         "votos": 641
                     },
                     {
                         "genero": "M",
                         "id": 16937042,
                         "nombre": "DANIEL ALEXANDRO BUNSTER RUIZ",
+                        "pacto": "D",
+                        "partido": "AH",
                         "votos": 619
                     },
                     {
                         "genero": "M",
                         "id": 9072069,
                         "nombre": "RODRIGO LEONARDO MU\u00d1OZ PONCE",
+                        "pacto": "D",
+                        "partido": "PL",
                         "votos": 614
                     }
                 ],
@@ -222,24 +254,32 @@
                         "genero": "F",
                         "id": 12608155,
                         "nombre": "BRUNELLA  VINET MATTASOGLIO",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 625
                     },
                     {
                         "genero": "M",
                         "id": 7024697,
                         "nombre": "RAUL  GIL GONZALEZ",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 608
                     },
                     {
                         "genero": "F",
                         "id": 19081767,
                         "nombre": "JOSEFINA LETELIER LARRAIN",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 581
                     },
                     {
                         "genero": "M",
                         "id": 13999294,
                         "nombre": "JUAN MANUEL CARRASCO BARRA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 510
                     }
                 ],
@@ -322,24 +362,32 @@
                         "genero": "F",
                         "id": 15017736,
                         "nombre": "CLAUDIA EVELYN VILLEGAS CARVAJAL",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 966
                     },
                     {
                         "genero": "M",
                         "id": 12447501,
                         "nombre": "LUIS DIXON VERGARA PIZARRO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 923
                     },
                     {
                         "genero": "M",
                         "id": 6720037,
                         "nombre": "CARLOS ALBERTO MELLA LATORRE",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 832
                     },
                     {
                         "genero": "F",
                         "id": 18004190,
                         "nombre": "FRANCISCA ESTER VARGAS PALLERO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 814
                     }
                 ],
@@ -362,24 +410,32 @@
                         "genero": "F",
                         "id": 15002239,
                         "nombre": "NORMA CRISTINA CORDOVA CORREA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 878
                     },
                     {
                         "genero": "F",
                         "id": 11841040,
                         "nombre": "MARCELA ORTEGA SAEZ",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 855
                     },
                     {
                         "genero": "M",
                         "id": 4227646,
                         "nombre": "SERGIO BITAR CHACRA",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 846
                     },
                     {
                         "genero": "M",
                         "id": 14271718,
                         "nombre": "PEDRO ANDRES VASQUEZ NEIRA",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 830
                     }
                 ],
@@ -402,24 +458,32 @@
                         "genero": "F",
                         "id": 17094561,
                         "nombre": "NINOSKA ESTHER PAYAUNA VILCA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 782
                     },
                     {
                         "genero": "F",
                         "id": 13416397,
                         "nombre": "ANDREA ELIZABETH DUE\u00d1AS CHAVEZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 769
                     },
                     {
                         "genero": "M",
                         "id": 18264399,
                         "nombre": "LEONARDO ANDRES RAMOS IRIARTE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 745
                     },
                     {
                         "genero": "M",
                         "id": 16556679,
                         "nombre": "SEBASTIAN ESTEBAN PARRAGUEZ GONZALEZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 744
                     }
                 ],
@@ -442,24 +506,32 @@
                         "genero": "F",
                         "id": 9225586,
                         "nombre": "PILAR BARRIENTOS HERNANDEZ",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 672
                     },
                     {
                         "genero": "F",
                         "id": 16592912,
                         "nombre": "ROMINA  TERRAZAS BARRAZA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 593
                     },
                     {
                         "genero": "M",
                         "id": 5348422,
                         "nombre": "NESTOR JOFRE NU\u00d1EZ",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 579
                     },
                     {
                         "genero": "M",
                         "id": 10586276,
                         "nombre": "MAURICIO SCHMIDT SILVA",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 566
                     }
                 ],
@@ -482,24 +554,32 @@
                         "genero": "F",
                         "id": 16486080,
                         "nombre": "ROMINA CAROLINA RAMOS RODRIGUEZ",
+                        "pacto": "D",
+                        "partido": "COMUNES",
                         "votos": 655
                     },
                     {
                         "genero": "M",
                         "id": 5595090,
                         "nombre": "ROBERTO FLAVIO CORTEZ ROJAS",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 646
                     },
                     {
                         "genero": "M",
                         "id": 8512604,
                         "nombre": "KURT HENER PEREZ",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 604
                     },
                     {
                         "genero": "F",
                         "id": 13991861,
                         "nombre": "ROSA MARIA OJEDA MENARES",
+                        "pacto": "D",
+                        "partido": "AH",
                         "votos": 594
                     }
                 ],
@@ -607,24 +687,32 @@
                         "genero": "F",
                         "id": 9542426,
                         "nombre": "SINDY TESSA GONZALEZ SALINI",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1385
                     },
                     {
                         "genero": "F",
                         "id": 13289217,
                         "nombre": "TAMMY SOLEDAD VERDUGO REYES",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1356
                     },
                     {
                         "genero": "M",
                         "id": 13014404,
                         "nombre": "JUAN ENRIQUE MORAGA MENA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1266
                     },
                     {
                         "genero": "M",
                         "id": 20817869,
                         "nombre": "JORGE ANDRES ALVAREZ TAPIA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1205
                     }
                 ],
@@ -651,24 +739,32 @@
                         "genero": "F",
                         "id": 11721751,
                         "nombre": "MARIA CANGANA LOYOLA",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1281
                     },
                     {
                         "genero": "M",
                         "id": 16924700,
                         "nombre": "FREDDY VI\u00d1ALES VI\u00d1ALES",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1252
                     },
                     {
                         "genero": "M",
                         "id": 15085033,
                         "nombre": "MARCELO ENCINA MU\u00d1OZ",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 1138
                     },
                     {
                         "genero": "F",
                         "id": 8577508,
                         "nombre": "DORIS NERTA NAVARRO FIGUEROA",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 1084
                     }
                 ],
@@ -695,24 +791,32 @@
                         "genero": "F",
                         "id": 10298243,
                         "nombre": "CARMEN  MONTOYA MAYORGA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1148
                     },
                     {
                         "genero": "M",
                         "id": 7166120,
                         "nombre": "CARLOS SOLAR BARRIOS",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1063
                     },
                     {
                         "genero": "F",
                         "id": 19952161,
                         "nombre": "SIOMARA VANESSA MOLINA FLORES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1063
                     },
                     {
                         "genero": "M",
                         "id": 14499183,
                         "nombre": "PATRICIO MALDONADO LAVADO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 939
                     }
                 ],
@@ -739,24 +843,32 @@
                         "genero": "F",
                         "id": 18183011,
                         "nombre": "LILIANA IVANIA GONZALEZ CORTES",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 1052
                     },
                     {
                         "genero": "M",
                         "id": 7337534,
                         "nombre": "JOSE ANTONIO GONZALEZ PIZARRO",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 1026
                     },
                     {
                         "genero": "F",
                         "id": 13645497,
                         "nombre": "JOHANA CRISTINA RIVERA TEJERINA",
+                        "pacto": "D",
+                        "partido": "FREVS",
                         "votos": 1001
                     },
                     {
                         "genero": "M",
                         "id": 10952965,
                         "nombre": "JOSE CRISTIAN MARDONES GALLARDO",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 893
                     }
                 ],
@@ -783,24 +895,32 @@
                         "genero": "F",
                         "id": 16203260,
                         "nombre": "DANIELA CASTRO ARAYA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 973
                     },
                     {
                         "genero": "M",
                         "id": 16245075,
                         "nombre": "PABLO POMAREDA ECHEVERRIA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 950
                     },
                     {
                         "genero": "F",
                         "id": 14109173,
                         "nombre": "KATHERINE LOPEZ RIVERA",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 846
                     },
                     {
                         "genero": "M",
                         "id": 6273728,
                         "nombre": "NALTO  ESPINOZA HURTADO",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 841
                     }
                 ],
@@ -887,24 +1007,32 @@
                         "genero": "F",
                         "id": 15028221,
                         "nombre": "CAROLINA DE LOS ANGELES CISTERNAS CEPEDA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 780
                     },
                     {
                         "genero": "M",
                         "id": 17302195,
                         "nombre": "JAIR ARIEL JOFRE HENRIQUEZ",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 695
                     },
                     {
                         "genero": "M",
                         "id": 17492607,
                         "nombre": "DANIEL FRANCO PATRICIO FLORES SALINAS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 666
                     },
                     {
                         "genero": "F",
                         "id": 17195164,
                         "nombre": "JESSICA ALEJANDRA LIQUITAY MARTINEZ",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 636
                     }
                 ],
@@ -927,24 +1055,32 @@
                         "genero": "M",
                         "id": 18445058,
                         "nombre": "RAUL ARAYA ZEPEDA",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 689
                     },
                     {
                         "genero": "F",
                         "id": 7921245,
                         "nombre": "NORA LUISA VI\u00d1AS GODOY",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 652
                     },
                     {
                         "genero": "M",
                         "id": 7221693,
                         "nombre": "NELSON DEL TRANSITO LOPEZ LOPEZ",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 576
                     },
                     {
                         "genero": "F",
                         "id": 10609419,
                         "nombre": "VERONICA TERESA GARRIDO BRICE\u00d1O",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 540
                     }
                 ],
@@ -967,24 +1103,32 @@
                         "genero": "F",
                         "id": 11333630,
                         "nombre": "PATRICIA DEL CARMEN HURTADO LOYOLA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 650
                     },
                     {
                         "genero": "F",
                         "id": 7134978,
                         "nombre": "FRESIA MARIA SEPULVEDA HANCKES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 553
                     },
                     {
                         "genero": "M",
                         "id": 11724787,
                         "nombre": "SEBASTIAN SIMON VEGA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 550
                     },
                     {
                         "genero": "M",
                         "id": 6622672,
                         "nombre": "PAUL ALEXANDER SFEIR RUBIO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 500
                     }
                 ],
@@ -1007,24 +1151,32 @@
                         "genero": "M",
                         "id": 4102104,
                         "nombre": "RICARDO NU\u00d1EZ MU\u00d1OZ",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 581
                     },
                     {
                         "genero": "F",
                         "id": 12940592,
                         "nombre": "MARCELA ALEXANDRA ARAYA SEPULVEDA",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 577
                     },
                     {
                         "genero": "F",
                         "id": 14397114,
                         "nombre": "YORKA ELISABETH QUINTEROS PEREZ",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 507
                     },
                     {
                         "genero": "M",
                         "id": 15610993,
                         "nombre": "KENSSEL MIGUEL ROJAS CASTRO",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 503
                     }
                 ],
@@ -1047,24 +1199,32 @@
                         "genero": "M",
                         "id": 16559282,
                         "nombre": "VITTORIO GHIGLINO BIANCHI",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 493
                     },
                     {
                         "genero": "M",
                         "id": 11862663,
                         "nombre": "GIOVANNI  CALDERON BASSI",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 468
                     },
                     {
                         "genero": "F",
                         "id": 5175640,
                         "nombre": "YORIS ROJAS VLASTELICA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 454
                     },
                     {
                         "genero": "F",
                         "id": 13873240,
                         "nombre": "MARIAPAZ MIRANDA CATALANO",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 437
                     }
                 ],
@@ -1172,24 +1332,32 @@
                         "genero": "F",
                         "id": 14005883,
                         "nombre": "JACQUELINE ANDREA MILLA ORTIZ",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2136
                     },
                     {
                         "genero": "F",
                         "id": 17655691,
                         "nombre": "LILIBETH YUVIXI HUERTA CORTES",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2004
                     },
                     {
                         "genero": "M",
                         "id": 13330025,
                         "nombre": "MANUEL ALEJANDRO CONTRERAS OLIVARES",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1975
                     },
                     {
                         "genero": "M",
                         "id": 8005140,
                         "nombre": "HECTOR RODOLFO ROSAS BUSTOS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1856
                     }
                 ],
@@ -1216,24 +1384,32 @@
                         "genero": "F",
                         "id": 10673960,
                         "nombre": "ALEJANDRA ELENA VIVANCO REYES",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 1975
                     },
                     {
                         "genero": "M",
                         "id": 4678791,
                         "nombre": "TOMAS ENRIQUE ALVARADO ZEPEDA",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 1763
                     },
                     {
                         "genero": "F",
                         "id": 12219704,
                         "nombre": "SUSANA COLLAO NU\u00d1EZ",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1703
                     },
                     {
                         "genero": "M",
                         "id": 9980104,
                         "nombre": "JORGE INSUNZA GREGORIO DE LAS HERAS",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1639
                     }
                 ],
@@ -1260,24 +1436,32 @@
                         "genero": "M",
                         "id": 13330031,
                         "nombre": "ANDRES EDUARDO GUERRA VEGA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1770
                     },
                     {
                         "genero": "F",
                         "id": 9884617,
                         "nombre": "MARIA TERESITA PROUVAY CORNEJO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1615
                     },
                     {
                         "genero": "F",
                         "id": 9727794,
                         "nombre": "GLORIA YOLANDA PAREDES DIAZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1550
                     },
                     {
                         "genero": "M",
                         "id": 9330515,
                         "nombre": "SERGIO HERNAN PINO VERGARA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1485
                     }
                 ],
@@ -1304,24 +1488,32 @@
                         "genero": "F",
                         "id": 19772148,
                         "nombre": "VALERIA PATRICIA CHACANA ALARCON",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 1558
                     },
                     {
                         "genero": "M",
                         "id": 14062522,
                         "nombre": "FERNANDO ANTONIO VIVEROS REYES",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 1552
                     },
                     {
                         "genero": "F",
                         "id": 16944809,
                         "nombre": "CAMILA NIDIA SABANDO VEGA",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 1485
                     },
                     {
                         "genero": "M",
                         "id": 13177657,
                         "nombre": "CARLOS GALLEGUILLOS CARVAJAL",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1427
                     }
                 ],
@@ -1348,24 +1540,32 @@
                         "genero": "F",
                         "id": 8879813,
                         "nombre": "IVON  GUERRA AGUILERA",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1405
                     },
                     {
                         "genero": "M",
                         "id": 12096351,
                         "nombre": "JORGE VILLAR GUTIERREZ",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1309
                     },
                     {
                         "genero": "M",
                         "id": 19077132,
                         "nombre": "GONZALO  PINOCHET ABARCA",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1286
                     },
                     {
                         "genero": "F",
                         "id": 13533486,
                         "nombre": "ANA MARIA AHUMADA GALLARDO",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1273
                     }
                 ],
@@ -1502,36 +1702,48 @@
                         "genero": "F",
                         "id": 16105082,
                         "nombre": "CARLA NATALIA ALLENDES SOZA",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 4716
                     },
                     {
                         "genero": "M",
                         "id": 8500066,
                         "nombre": "MARCO ANTONIO NU\u00d1EZ LOZANO",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 4472
                     },
                     {
                         "genero": "M",
                         "id": 6687951,
                         "nombre": "MANUEL ARMANDO TOBAR LEIVA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 4327
                     },
                     {
                         "genero": "F",
                         "id": 18272557,
                         "nombre": "JAZMIN MURILLO JORQUERA",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 4281
                     },
                     {
                         "genero": "F",
                         "id": 7008999,
                         "nombre": "DARMA ODETTE LOPEZ TORRES",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 4158
                     },
                     {
                         "genero": "M",
                         "id": 16332679,
                         "nombre": "CHRISTIAN ANDRES INOSTROZA CABRERA",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 3981
                     }
                 ],
@@ -1566,36 +1778,48 @@
                         "genero": "F",
                         "id": 16686002,
                         "nombre": "MARIA DE LOS ANGELES LOPEZ PORFIRI",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3827
                     },
                     {
                         "genero": "M",
                         "id": 16361211,
                         "nombre": "RAIMUNDO JESUS PALAMARA STEWART",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3820
                     },
                     {
                         "genero": "F",
                         "id": 14447560,
                         "nombre": "TATIANA PAOLA BERNAL PARRA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3803
                     },
                     {
                         "genero": "M",
                         "id": 17355645,
                         "nombre": "ANTONIO BARCHIESI CHAVEZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3774
                     },
                     {
                         "genero": "F",
                         "id": 8576244,
                         "nombre": "CHANTAL ROBERT DE LA MAHOTIERE FLOTTES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3666
                     },
                     {
                         "genero": "M",
                         "id": 15541513,
                         "nombre": "PEDRO RODOLFO SCHWEDELBACH PUGA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3560
                     }
                 ],
@@ -1630,36 +1854,48 @@
                         "genero": "M",
                         "id": 6642777,
                         "nombre": "ALDO  VALLE ACEVEDO",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 3463
                     },
                     {
                         "genero": "F",
                         "id": 16887738,
                         "nombre": "MARIA SOLEDAD PARDO VERGARA",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 3445
                     },
                     {
                         "genero": "F",
                         "id": 18282601,
                         "nombre": "VALERIA ANGELICA CARCAMO VIDAL",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 3326
                     },
                     {
                         "genero": "M",
                         "id": 5344795,
                         "nombre": "MARCELO SCHILLING RODRIGUEZ",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 3218
                     },
                     {
                         "genero": "F",
                         "id": 13997900,
                         "nombre": "CAROLINA PATRICIA FERNANDEZ QUEZADA",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 3142
                     },
                     {
                         "genero": "M",
                         "id": 13068925,
                         "nombre": "GONZALO ANDRES VEGA MORENO",
+                        "pacto": "D",
+                        "partido": "COMUNES",
                         "votos": 3070
                     }
                 ],
@@ -1694,36 +1930,48 @@
                         "genero": "F",
                         "id": 14138006,
                         "nombre": "LESLIE BRIONES ROJO",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 2984
                     },
                     {
                         "genero": "F",
                         "id": 13544441,
                         "nombre": "LUIGINA PRUZZO GUERRA",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 2955
                     },
                     {
                         "genero": "M",
                         "id": 4386100,
                         "nombre": "GONZALO IBA\u00d1EZ SANTA MARIA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 2911
                     },
                     {
                         "genero": "F",
                         "id": 16678544,
                         "nombre": "VIVIANA  NU\u00d1EZ CARRASCO",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 2722
                     },
                     {
                         "genero": "M",
                         "id": 9012679,
                         "nombre": "GONZALO YUSEFF QUIROS",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 2695
                     },
                     {
                         "genero": "M",
                         "id": 4721073,
                         "nombre": "EDMUNDO ELUCHANS URENDA",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 2664
                     }
                 ],
@@ -1893,36 +2141,48 @@
                         "genero": "F",
                         "id": 16244695,
                         "nombre": "ELIZABETH RODRIGUEZ SIERRA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 10937
                     },
                     {
                         "genero": "M",
                         "id": 12892091,
                         "nombre": "MAURICIO ANDRES PAVEZ GALAZ",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 10786
                     },
                     {
                         "genero": "F",
                         "id": 11483597,
                         "nombre": "CARMEN GLORIA GONZALEZ BURNS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 10334
                     },
                     {
                         "genero": "M",
                         "id": 19039122,
                         "nombre": "RAMON ANTONIO LEONARDO HUIDOBRO LEIVA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 10246
                     },
                     {
                         "genero": "F",
                         "id": 17952087,
                         "nombre": "TAMARA ALEJANDRA RAMIREZ RAMIREZ",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 10009
                     },
                     {
                         "genero": "M",
                         "id": 8680065,
                         "nombre": "GONZALO GERMAN INOJOSA HERNANDEZ",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 9898
                     }
                 ],
@@ -1957,36 +2217,48 @@
                         "genero": "F",
                         "id": 10055396,
                         "nombre": "NATALIA PIERGENTILI DOMENECH",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 9737
                     },
                     {
                         "genero": "M",
                         "id": 7040289,
                         "nombre": "ANDRES PALMA IRARRAZAVAL",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 9660
                     },
                     {
                         "genero": "F",
                         "id": 4107128,
                         "nombre": "CARMEN VICTORIA FREI RUIZ-TAGLE",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 9410
                     },
                     {
                         "genero": "M",
                         "id": 15342974,
                         "nombre": "ANDRES EMILIO SEPULVEDA JIMENEZ",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 9279
                     },
                     {
                         "genero": "F",
                         "id": 14188439,
                         "nombre": "PAZ SUAREZ BRIONES",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 9101
                     },
                     {
                         "genero": "M",
                         "id": 10800928,
                         "nombre": "RODRIGO JOSE CHANDIA SOTO",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 8994
                     }
                 ],
@@ -2021,36 +2293,48 @@
                         "genero": "F",
                         "id": 18531341,
                         "nombre": "MACARENA DEL CARMEN BRAVO ROJAS",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 8775
                     },
                     {
                         "genero": "F",
                         "id": 17590387,
                         "nombre": "TABITA SARAI SILVA LEIVA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 8729
                     },
                     {
                         "genero": "M",
                         "id": 9024616,
                         "nombre": "LUIS SILVA IRARRAZAVAL",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 8688
                     },
                     {
                         "genero": "M",
                         "id": 18173007,
                         "nombre": "IGNACIO ANDRES DULGER CASTILLO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 8534
                     },
                     {
                         "genero": "F",
                         "id": 12068971,
                         "nombre": "SYLVIA DEL CARMEN BUSTOS AGUIRRE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 8304
                     },
                     {
                         "genero": "M",
                         "id": 16095244,
                         "nombre": "JORGE JOSE OSSANDON SPOERER",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 8171
                     }
                 ],
@@ -2085,36 +2369,48 @@
                         "genero": "M",
                         "id": 8077485,
                         "nombre": "YERKO ANTONIO LJUBETIC GODOY",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 8126
                     },
                     {
                         "genero": "F",
                         "id": 13684095,
                         "nombre": "KAREN VIVIANA ARAYA ROJAS",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 7906
                     },
                     {
                         "genero": "F",
                         "id": 17033397,
                         "nombre": "CAMILA FERNANDA MIRANDA MEDINA",
+                        "pacto": "D",
+                        "partido": "COMUNES",
                         "votos": 7693
                     },
                     {
                         "genero": "F",
                         "id": 16470244,
                         "nombre": "ROCIO FERNANDA DONOSO PINEDA",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 7583
                     },
                     {
                         "genero": "M",
                         "id": 7077432,
                         "nombre": "SADI MELO MOYA",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 7571
                     },
                     {
                         "genero": "M",
                         "id": 15382950,
                         "nombre": "RODRIGO ALFONSO RETTIG VARGAS",
+                        "pacto": "D",
+                        "partido": "PL",
                         "votos": 7205
                     }
                 ],
@@ -2149,36 +2445,48 @@
                         "genero": "F",
                         "id": 6069264,
                         "nombre": "GLORIA HUTT HESSE",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 7087
                     },
                     {
                         "genero": "M",
                         "id": 4665925,
                         "nombre": "JAIME RAVINET DE LA FUENTE",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 7057
                     },
                     {
                         "genero": "M",
                         "id": 7563445,
                         "nombre": "BRUNO  BARANDA FERRAN",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 6849
                     },
                     {
                         "genero": "F",
                         "id": 13252861,
                         "nombre": "ELEONORA ESPINOZA HERNANDEZ",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 6786
                     },
                     {
                         "genero": "F",
                         "id": 16071849,
                         "nombre": "MARIA JOSE PUIGRREDON FIGUEROA",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 6763
                     },
                     {
                         "genero": "M",
                         "id": 8771203,
                         "nombre": "RODRIGO  DELGADO MOCARQUER",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 6662
                     }
                 ],
@@ -2298,24 +2606,32 @@
                         "genero": "F",
                         "id": 15787782,
                         "nombre": "CAROL AROS SEGUEL",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2737
                     },
                     {
                         "genero": "M",
                         "id": 7212608,
                         "nombre": "LUIS FELIPE LORENZINI CLAVEL",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2674
                     },
                     {
                         "genero": "F",
                         "id": 13033031,
                         "nombre": "SUSAN EVELYN GOMEZ PARDO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2633
                     },
                     {
                         "genero": "M",
                         "id": 16843356,
                         "nombre": "CARLOS SEBASTIAN GUERRA MORALES",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2415
                     }
                 ],
@@ -2342,24 +2658,32 @@
                         "genero": "F",
                         "id": 12911092,
                         "nombre": "MARCIA ISABEL BARRERA CISTERNAS",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2449
                     },
                     {
                         "genero": "M",
                         "id": 6651899,
                         "nombre": "BERNARDO FRANCISCO ZAPATA ABARCA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2326
                     },
                     {
                         "genero": "M",
                         "id": 6101810,
                         "nombre": "PEDRO ANDRES MARCHANT VILLANUEVA",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 2318
                     },
                     {
                         "genero": "F",
                         "id": 11276885,
                         "nombre": "MONICA LATORRE ROLDAN",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 2260
                     }
                 ],
@@ -2386,24 +2710,32 @@
                         "genero": "F",
                         "id": 10773416,
                         "nombre": "ELISA AMELIA SALAS LOPEZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2319
                     },
                     {
                         "genero": "M",
                         "id": 15385619,
                         "nombre": "SEBASTIAN ALBERTO FIGUEROA MELO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2191
                     },
                     {
                         "genero": "M",
                         "id": 17408591,
                         "nombre": "GABRIEL DOMINGUEZ VALDES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2183
                     },
                     {
                         "genero": "F",
                         "id": 12232600,
                         "nombre": "PATRICIA BESA TAGLE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2132
                     }
                 ],
@@ -2430,24 +2762,32 @@
                         "genero": "F",
                         "id": 13561003,
                         "nombre": "DOMINICA LEONOR GUZMAN ARCE",
+                        "pacto": "D",
+                        "partido": "FREVS",
                         "votos": 1999
                     },
                     {
                         "genero": "F",
                         "id": 17139066,
                         "nombre": "RAISA TAMARA MARTINEZ MU\u00d1OZ",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 1938
                     },
                     {
                         "genero": "M",
                         "id": 17335724,
                         "nombre": "DANIEL ALFONSO OLIVARES VIDAL",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 1934
                     },
                     {
                         "genero": "M",
                         "id": 4384763,
                         "nombre": "MIGUEL  LITTIN CUCUMIDES",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1915
                     }
                 ],
@@ -2474,24 +2814,32 @@
                         "genero": "F",
                         "id": 12913235,
                         "nombre": "IVONNE MANGELSDORFF GALEB",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1833
                     },
                     {
                         "genero": "M",
                         "id": 8525872,
                         "nombre": "JUAN SUTIL SERVOIN",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1762
                     },
                     {
                         "genero": "F",
                         "id": 11278401,
                         "nombre": "MARIA IGNACIA CASTRO ROJAS",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1756
                     },
                     {
                         "genero": "M",
                         "id": 20038517,
                         "nombre": "VALENTIN  MATUS MARTINEZ",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1743
                     }
                 ],
@@ -2653,36 +3001,48 @@
                         "genero": "M",
                         "id": 9754223,
                         "nombre": "BORIS HUMBERTO CHAVEZ ZAMBRANO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2519
                     },
                     {
                         "genero": "M",
                         "id": 14288560,
                         "nombre": "JORGE ENRIQUE ROJAS CARVAJAL",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2449
                     },
                     {
                         "genero": "F",
                         "id": 15126874,
                         "nombre": "VIVIANA DE LAS MERCEDES RODRIGUEZ SAAVEDRA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2448
                     },
                     {
                         "genero": "M",
                         "id": 16837359,
                         "nombre": "FABIAN ANDRES RIOS LARA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2420
                     },
                     {
                         "genero": "F",
                         "id": 14200292,
                         "nombre": "DINA CATHERINE CASTILLO CASTILLO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2391
                     },
                     {
                         "genero": "F",
                         "id": 14348730,
                         "nombre": "SUSANA VERONICA PACHECO MARCOS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2228
                     }
                 ],
@@ -2717,24 +3077,32 @@
                         "genero": "F",
                         "id": 15754384,
                         "nombre": "CAROLINA ALEJANDRA CONTRERAS RETAMAL",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2266
                     },
                     {
                         "genero": "M",
                         "id": 16008078,
                         "nombre": "PABLO IGNACIO VERDUGO VERGARA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2155
                     },
                     {
                         "genero": "M",
                         "id": 4388742,
                         "nombre": "GUILLERMO CERONI FUENTES",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 2125
                     },
                     {
                         "genero": "F",
                         "id": 15989734,
                         "nombre": "JACQUELINE JARA AVALOS",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 2106
                     }
                 ],
@@ -2769,36 +3137,48 @@
                         "genero": "F",
                         "id": 9480453,
                         "nombre": "MARIA GATICA GAJARDO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2145
                     },
                     {
                         "genero": "F",
                         "id": 13205274,
                         "nombre": "GREIS MARISEL PARADA ROJAS",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2069
                     },
                     {
                         "genero": "M",
                         "id": 6163989,
                         "nombre": "RICARDO ORTEGA PERRIER",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2007
                     },
                     {
                         "genero": "F",
                         "id": 4831889,
                         "nombre": "HILDA CECILIA TOLEDO FUENTES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1979
                     },
                     {
                         "genero": "M",
                         "id": 8087560,
                         "nombre": "SEGUNDO ANDRES HOJAS DEL VALLE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1914
                     },
                     {
                         "genero": "M",
                         "id": 19702708,
                         "nombre": "MIGUEL ROJAS SOTO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1893
                     }
                 ],
@@ -2833,36 +3213,48 @@
                         "genero": "F",
                         "id": 17495971,
                         "nombre": "ROCIO MARGARITA MOYA ROMERO",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 1944
                     },
                     {
                         "genero": "M",
                         "id": 9433193,
                         "nombre": "MANUEL ARNOLDO AMESTICA GAETE",
+                        "pacto": "D",
+                        "partido": "FREVS",
                         "votos": 1827
                     },
                     {
                         "genero": "F",
                         "id": 17469709,
                         "nombre": "CONSTANZA ANDREA PAVEZ ANDAUR",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 1763
                     },
                     {
                         "genero": "M",
                         "id": 17336793,
                         "nombre": "SEBASTIAN HENRIQUEZ MU\u00d1OZ",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 1732
                     },
                     {
                         "genero": "M",
                         "id": 8158868,
                         "nombre": "CHRISTIAN  SUAREZ CROTHERS",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1722
                     },
                     {
                         "genero": "F",
                         "id": 12522490,
                         "nombre": "ERNA MARJORIE MALDONADO CASANOVA",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 1711
                     }
                 ],
@@ -2897,36 +3289,48 @@
                         "genero": "F",
                         "id": 10483956,
                         "nombre": "MARIA CLAUDIA JORQUERA CORIA",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1684
                     },
                     {
                         "genero": "M",
                         "id": 8363183,
                         "nombre": "MARIO  UNDURRAGA CASTELBLANCO",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1674
                     },
                     {
                         "genero": "M",
                         "id": 5093082,
                         "nombre": "LUIS VALENTIN FERRADA VALENZUELA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1621
                     },
                     {
                         "genero": "F",
                         "id": 13231889,
                         "nombre": "FERNANDA PINOCHET OLAVE",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 1576
                     },
                     {
                         "genero": "F",
                         "id": 13600685,
                         "nombre": "MARLENNE DURAN SEGUEL",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1569
                     },
                     {
                         "genero": "M",
                         "id": 16001930,
                         "nombre": "CARLOS GONZALEZ HERRERA",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 1558
                     }
                 ],
@@ -3046,24 +3450,32 @@
                         "genero": "F",
                         "id": 15657601,
                         "nombre": "ASTRID STEPHANIE ABARZUA BRAVO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 5318
                     },
                     {
                         "genero": "M",
                         "id": 9243488,
                         "nombre": "HUGO ANTONIO SOTO BECERRA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 4935
                     },
                     {
                         "genero": "F",
                         "id": 17007833,
                         "nombre": "MIRTHA VICTORIA ENCINA OVALLE",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 4830
                     },
                     {
                         "genero": "M",
                         "id": 15627805,
                         "nombre": "NELSON ALEXANDER CARES ORME\u00d1O",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 4641
                     }
                 ],
@@ -3090,24 +3502,32 @@
                         "genero": "F",
                         "id": 17913563,
                         "nombre": "NATALY YANIRA NEIRA MONTOYA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 4443
                     },
                     {
                         "genero": "M",
                         "id": 12086253,
                         "nombre": "CRISTIAN DANIEL SAN MARTIN CARRASCO",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 4355
                     },
                     {
                         "genero": "F",
                         "id": 10899219,
                         "nombre": "ROSSANA ENRIQUEZ CASTILLO",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 4322
                     },
                     {
                         "genero": "M",
                         "id": 15616382,
                         "nombre": "GABRIEL ALEJANDRO BENELLI PAREDES",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 4126
                     }
                 ],
@@ -3134,24 +3554,32 @@
                         "genero": "F",
                         "id": 10980343,
                         "nombre": "PATRICIA SPOERER PRICE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 4187
                     },
                     {
                         "genero": "F",
                         "id": 17592810,
                         "nombre": "CLAUDIA POLETTE ORTEGA SAEZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3826
                     },
                     {
                         "genero": "M",
                         "id": 18137981,
                         "nombre": "ALDO SANHUEZA CARRERA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3816
                     },
                     {
                         "genero": "M",
                         "id": 13143472,
                         "nombre": "CARLOS FRANCISCO ORDENES GATICA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 3747
                     }
                 ],
@@ -3178,24 +3606,32 @@
                         "genero": "F",
                         "id": 17516540,
                         "nombre": "PALOMA IGNACIA ZU\u00d1IGA CERDA",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 3559
                     },
                     {
                         "genero": "M",
                         "id": 16215470,
                         "nombre": "PABLO IGNACIO CUEVAS MU\u00d1OZ",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 3504
                     },
                     {
                         "genero": "M",
                         "id": 12974034,
                         "nombre": "CRISTIAN EDUARDO CARTES RUZ",
+                        "pacto": "D",
+                        "partido": "FREVS",
                         "votos": 3379
                     },
                     {
                         "genero": "F",
                         "id": 15593050,
                         "nombre": "CAROLINA BEATRIZ MARTINEZ EBNER",
+                        "pacto": "D",
+                        "partido": "PL",
                         "votos": 3359
                     }
                 ],
@@ -3222,24 +3658,32 @@
                         "genero": "F",
                         "id": 5756427,
                         "nombre": "MONICA TRONCOSO SALINAS",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 3449
                     },
                     {
                         "genero": "M",
                         "id": 10254641,
                         "nombre": "ROBERT CONTRERAS REYES",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 3218
                     },
                     {
                         "genero": "F",
                         "id": 16983698,
                         "nombre": "VICTORIA PINCHEIRA POBLETE",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 3155
                     },
                     {
                         "genero": "M",
                         "id": 8226720,
                         "nombre": "JORGE  ULLOA AGUILLON",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 3033
                     }
                 ],
@@ -3401,36 +3845,48 @@
                         "genero": "M",
                         "id": 12743015,
                         "nombre": "PEDRO MARCELO BERMEDO LILLO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2423
                     },
                     {
                         "genero": "F",
                         "id": 19379658,
                         "nombre": "CONSTANZA ANAIS CARVACHO ESCALONA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2407
                     },
                     {
                         "genero": "F",
                         "id": 10915395,
                         "nombre": "FLOR ROSSANY CONTRERAS VIVALLO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2332
                     },
                     {
                         "genero": "F",
                         "id": 15661905,
                         "nombre": "DANIELA PAZ MEDEL SANHUEZA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2328
                     },
                     {
                         "genero": "M",
                         "id": 17281207,
                         "nombre": "CESAR CAMILO QUIJADA CONTRERAS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2310
                     },
                     {
                         "genero": "M",
                         "id": 15214271,
                         "nombre": "ROBERTO ANDRES BASCU\u00d1AN SALDIAS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2262
                     }
                 ],
@@ -3465,36 +3921,48 @@
                         "genero": "F",
                         "id": 12331341,
                         "nombre": "KIRIA GLADYS ANTILEO MELLA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2168
                     },
                     {
                         "genero": "M",
                         "id": 9282652,
                         "nombre": "ALFREDO VALLEJOS PROVOSTE",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 2142
                     },
                     {
                         "genero": "F",
                         "id": 12527957,
                         "nombre": "MIRIAM PAOLA VALDES ZU\u00d1IGA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2086
                     },
                     {
                         "genero": "M",
                         "id": 17263186,
                         "nombre": "FELIPE ESTEBAN CALFUNAO VARAS",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2073
                     },
                     {
                         "genero": "M",
                         "id": 9021531,
                         "nombre": "VICTOR HUGO HIRAM PACHECO SCHMIDT",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 2055
                     },
                     {
                         "genero": "F",
                         "id": 15388153,
                         "nombre": "PAMELA ALEJANDRA TOLOZA BURGOS",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 2012
                     }
                 ],
@@ -3529,36 +3997,48 @@
                         "genero": "F",
                         "id": 15652835,
                         "nombre": "MARIELA ANDREA FINCHEIRA MASSARDO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2011
                     },
                     {
                         "genero": "M",
                         "id": 15550237,
                         "nombre": "MARIO GARCIA WESTERMEYER",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1948
                     },
                     {
                         "genero": "M",
                         "id": 10457308,
                         "nombre": "HECTOR  URBAN ASTETE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1939
                     },
                     {
                         "genero": "F",
                         "id": 13319116,
                         "nombre": "LORETO ESTER CAMPANA MORALES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1910
                     },
                     {
                         "genero": "F",
                         "id": 16595075,
                         "nombre": "STEFANI DEL PILAR ALARCON HERRERA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1826
                     },
                     {
                         "genero": "M",
                         "id": 16367320,
                         "nombre": "MARTIN ANDRES KUSCHKE BELANDRINO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1766
                     }
                 ],
@@ -3593,36 +4073,48 @@
                         "genero": "M",
                         "id": 11591149,
                         "nombre": "JOSE ANTONIO JEREZ BURGOS",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1809
                     },
                     {
                         "genero": "F",
                         "id": 12030611,
                         "nombre": "GEMITA ALVAREZ SEPULVEDA",
+                        "pacto": "D",
+                        "partido": "FREVS",
                         "votos": 1793
                     },
                     {
                         "genero": "M",
                         "id": 8196077,
                         "nombre": "RAUL ALLARD SOTO",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1781
                     },
                     {
                         "genero": "F",
                         "id": 12192925,
                         "nombre": "ERNA ANDREA QUIJON GODOY",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 1758
                     },
                     {
                         "genero": "F",
                         "id": 18720009,
                         "nombre": "KINTURAY CARLINA MELIN RAPIMAN",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 1649
                     },
                     {
                         "genero": "M",
                         "id": 11686898,
                         "nombre": "CHRISTIAN ROMAN DULANSKY ARAYA",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 1594
                     }
                 ],
@@ -3657,36 +4149,48 @@
                         "genero": "F",
                         "id": 14166738,
                         "nombre": "MAGDALENA TRAUB ETCHEGOYEN",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 1599
                     },
                     {
                         "genero": "F",
                         "id": 7724817,
                         "nombre": "SOLANGE CARMINE ROJAS",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1580
                     },
                     {
                         "genero": "M",
                         "id": 19244835,
                         "nombre": "ARTURO PHILLIPS DORR",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1532
                     },
                     {
                         "genero": "F",
                         "id": 12628019,
                         "nombre": "CAROLINA LAGOS JOFRE",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1524
                     },
                     {
                         "genero": "M",
                         "id": 16317068,
                         "nombre": "JOSE LUIS HIDALGO PINO",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 1518
                     },
                     {
                         "genero": "M",
                         "id": 7701180,
                         "nombre": "GERMAN BECKER ALVEAR",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1450
                     }
                 ],
@@ -3806,24 +4310,32 @@
                         "genero": "F",
                         "id": 10219549,
                         "nombre": "MARIA SONIA AGUILEF GALLEGOS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1745
                     },
                     {
                         "genero": "F",
                         "id": 10486198,
                         "nombre": "EMMA PATRICIA CIFUENTES BARRIENTOS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1713
                     },
                     {
                         "genero": "M",
                         "id": 15354219,
                         "nombre": "FRANCISCO ISIDORO HENRIQUEZ MU\u00d1OZ",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1644
                     },
                     {
                         "genero": "M",
                         "id": 10836331,
                         "nombre": "GUSTAVO EDUARDO DAVILA SEPULVEDA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1555
                     }
                 ],
@@ -3850,24 +4362,32 @@
                         "genero": "F",
                         "id": 13817897,
                         "nombre": "MARILA LORETO BARRIENTOS TRIVI\u00d1OS",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1585
                     },
                     {
                         "genero": "F",
                         "id": 16805952,
                         "nombre": "MADELIN YOSETTE JAU JARAMILLO",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 1524
                     },
                     {
                         "genero": "M",
                         "id": 5280504,
                         "nombre": "MIGUEL DAVID RAMIREZ CARVAJAL",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1516
                     },
                     {
                         "genero": "M",
                         "id": 8897628,
                         "nombre": "MIGUEL BARRIGA PARRA",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1432
                     }
                 ],
@@ -3894,24 +4414,32 @@
                         "genero": "F",
                         "id": 16096392,
                         "nombre": "PAOLA FRANCESCA CLAVEROL MARTINEZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1482
                     },
                     {
                         "genero": "F",
                         "id": 10982517,
                         "nombre": "PATRICIA LILIANA AYORA CAVOUR",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1441
                     },
                     {
                         "genero": "M",
                         "id": 15797290,
                         "nombre": "DANIEL ANDRES ARZOLA GARRIDO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1426
                     },
                     {
                         "genero": "M",
                         "id": 10488532,
                         "nombre": "JORGE  DE LA MAZA SCHLEYER",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1358
                     }
                 ],
@@ -3938,24 +4466,32 @@
                         "genero": "M",
                         "id": 6530889,
                         "nombre": "ALEJANDRO KOHLER VARGAS",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1260
                     },
                     {
                         "genero": "F",
                         "id": 7143674,
                         "nombre": "NANCY  SILVA GUERRERO",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1209
                     },
                     {
                         "genero": "M",
                         "id": 8094886,
                         "nombre": "OSCAR EDUARDO MENDOZA URIARTE",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 1184
                     },
                     {
                         "genero": "F",
                         "id": 16805216,
                         "nombre": "VALERIA AMANDA OCHOA HINRICHSEN",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 1155
                     }
                 ],
@@ -3982,24 +4518,32 @@
                         "genero": "M",
                         "id": 7011719,
                         "nombre": "JOSE ANTONIO URRUTIA RIESCO",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1131
                     },
                     {
                         "genero": "F",
                         "id": 18913745,
                         "nombre": "LORENA GALLARDO CARDENAS",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1108
                     },
                     {
                         "genero": "M",
                         "id": 15734731,
                         "nombre": "PEDRO LAMAS GUTIERREZ",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1063
                     },
                     {
                         "genero": "F",
                         "id": 14036888,
                         "nombre": "CAROLA CABEZA FUENTES",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1055
                     }
                 ],
@@ -4111,24 +4655,32 @@
                         "genero": "F",
                         "id": 15645102,
                         "nombre": "ROSA ALEJANDRA ANDRADE MANQUEMILLA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 3041
                     },
                     {
                         "genero": "M",
                         "id": 18493072,
                         "nombre": "ALVARO FABIAN OJEDA ALVARADO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 3019
                     },
                     {
                         "genero": "F",
                         "id": 15298375,
                         "nombre": "LORENA DENISSE LEICHTLE BERTIN",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2983
                     },
                     {
                         "genero": "M",
                         "id": 12713168,
                         "nombre": "GUILLERMO ENRIQUE PALACIOS CONTRERAS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 2881
                     }
                 ],
@@ -4155,24 +4707,32 @@
                         "genero": "F",
                         "id": 17639434,
                         "nombre": "CAROLINA  GARCIA VERA",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 2817
                     },
                     {
                         "genero": "F",
                         "id": 8418777,
                         "nombre": "GLORIA MARITZA HURTADO GARAY",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2744
                     },
                     {
                         "genero": "M",
                         "id": 8143228,
                         "nombre": "JUAN CARLOS DUHALDE ROMERO",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 2698
                     },
                     {
                         "genero": "M",
                         "id": 17742839,
                         "nombre": "EDUARDO RAUL ALVAREZ VIDAL",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 2630
                     }
                 ],
@@ -4199,24 +4759,32 @@
                         "genero": "F",
                         "id": 18239161,
                         "nombre": "BEATRIZ ISABEL HEVIA WILLER",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2479
                     },
                     {
                         "genero": "M",
                         "id": 8722148,
                         "nombre": "MAXIMILIANO ARTURO URRUTIA QUEZADA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2443
                     },
                     {
                         "genero": "M",
                         "id": 21104846,
                         "nombre": "FERNANDO SEBASTIAN BARRIA OYARZO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2441
                     },
                     {
                         "genero": "F",
                         "id": 13901251,
                         "nombre": "LORENA ESTER PEREZ TORO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 2396
                     }
                 ],
@@ -4243,24 +4811,32 @@
                         "genero": "M",
                         "id": 7907269,
                         "nombre": "EDUARDO CASTRO RIOS",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 2385
                     },
                     {
                         "genero": "F",
                         "id": 13850107,
                         "nombre": "NANCY CAROLA MARQUEZ GONZALEZ",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 2265
                     },
                     {
                         "genero": "M",
                         "id": 16349659,
                         "nombre": "SAMUEL ANDRES GALVEZ DERPICH",
+                        "pacto": "D",
+                        "partido": "PL",
                         "votos": 2194
                     },
                     {
                         "genero": "F",
                         "id": 11926917,
                         "nombre": "YANINA BEATRIZ DIAZ MAYORGA",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 2156
                     }
                 ],
@@ -4287,24 +4863,32 @@
                         "genero": "F",
                         "id": 6928545,
                         "nombre": "EVELYN  ZOTTELE GARCIA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 2148
                     },
                     {
                         "genero": "M",
                         "id": 7832398,
                         "nombre": "CARLOS  RECONDO LAVANDEROS",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 2045
                     },
                     {
                         "genero": "F",
                         "id": 8692707,
                         "nombre": "PATRICIA SANZANA CARDENAS",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 2016
                     },
                     {
                         "genero": "M",
                         "id": 15382418,
                         "nombre": "JUAN LUIS OSSA SANTA CRUZ",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 2007
                     }
                 ],
@@ -4391,24 +4975,32 @@
                         "genero": "M",
                         "id": 9054033,
                         "nombre": "LUIS ALBERTO SOTO SOTO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 544
                     },
                     {
                         "genero": "F",
                         "id": 15965296,
                         "nombre": "PAULINA ALEJANDRA PEREZ RUBILAR",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 529
                     },
                     {
                         "genero": "F",
                         "id": 15968809,
                         "nombre": "SANDRA ANGELICA MANSILLA ARRIAGADA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 512
                     },
                     {
                         "genero": "M",
                         "id": 10933275,
                         "nombre": "JUAN MARIO REYES URIBE",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 454
                     }
                 ],
@@ -4431,24 +5023,32 @@
                         "genero": "M",
                         "id": 12001523,
                         "nombre": "ELVIS GODOY FURNIER",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 511
                     },
                     {
                         "genero": "F",
                         "id": 15965291,
                         "nombre": "TAMARA YOSELINE VILLEGAS REDLICH",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 476
                     },
                     {
                         "genero": "F",
                         "id": 16534062,
                         "nombre": "PAOLA VELASQUEZ MANSILLA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 459
                     },
                     {
                         "genero": "M",
                         "id": 3244592,
                         "nombre": "ANDRES ZALDIVAR LARRAIN",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 441
                     }
                 ],
@@ -4471,24 +5071,32 @@
                         "genero": "F",
                         "id": 15304860,
                         "nombre": "LUZ VALERIA VILLEGAS OJEDA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 459
                     },
                     {
                         "genero": "F",
                         "id": 9853314,
                         "nombre": "NIEVES ANTONIA CUEVAS TORRES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 441
                     },
                     {
                         "genero": "M",
                         "id": 17602172,
                         "nombre": "FERNANDO EDUARDO AUGUSTO SAN CRISTOBAL BRAHM",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 430
                     },
                     {
                         "genero": "M",
                         "id": 20318005,
                         "nombre": "JOSUE NATANAEL MILLANAO PEZO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 398
                     }
                 ],
@@ -4511,24 +5119,32 @@
                         "genero": "F",
                         "id": 8687334,
                         "nombre": "VALENTINA GABRIELA MILLALONCO VARGAS",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 403
                     },
                     {
                         "genero": "M",
                         "id": 16684435,
                         "nombre": "ERWIN SANDOVAL GALLARDO",
+                        "pacto": "D",
+                        "partido": "FREVS",
                         "votos": 398
                     },
                     {
                         "genero": "F",
                         "id": 9893634,
                         "nombre": "LORENA  SOZA HERNANDEZ",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 383
                     },
                     {
                         "genero": "M",
                         "id": 13244595,
                         "nombre": "JULIO FRANCISCO \u00d1ANCO ANTILEF",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 352
                     }
                 ],
@@ -4551,24 +5167,32 @@
                         "genero": "F",
                         "id": 9065357,
                         "nombre": "PILAR CUEVAS MARDONES",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 387
                     },
                     {
                         "genero": "M",
                         "id": 11890533,
                         "nombre": "CRISTIAN SUAZO CHACON",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 370
                     },
                     {
                         "genero": "M",
                         "id": 18282101,
                         "nombre": "DIEGO SILVA BARRERA",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 370
                     },
                     {
                         "genero": "F",
                         "id": 10335642,
                         "nombre": "ANDREA  PONCE OLIVARES",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 322
                     }
                 ],
@@ -4651,24 +5275,32 @@
                         "genero": "F",
                         "id": 10676684,
                         "nombre": "ANDREA PIVCEVIC CORTESE",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 825
                     },
                     {
                         "genero": "M",
                         "id": 16964848,
                         "nombre": "IGNACIO ANDRES QUIJADA LONCHARIC",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 749
                     },
                     {
                         "genero": "F",
                         "id": 19861939,
                         "nombre": "VICTORIA TRAPP MOREIRA",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 745
                     },
                     {
                         "genero": "M",
                         "id": 8233596,
                         "nombre": "VICTOR MAURICIO HERNANDEZ GODOY",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 670
                     }
                 ],
@@ -4691,12 +5323,16 @@
                         "genero": "F",
                         "id": 7689686,
                         "nombre": "VERONICA DEL CARMEN ROJAS ARENAS",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 792
                     },
                     {
                         "genero": "M",
                         "id": 11401637,
                         "nombre": "MARCELO ANDRES TOLEDO TOLEDO",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 730
                     }
                 ],
@@ -4719,24 +5355,32 @@
                         "genero": "M",
                         "id": 12382102,
                         "nombre": "VICTOR HERNAN ARAVENA GUTIERREZ",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 778
                     },
                     {
                         "genero": "F",
                         "id": 14744752,
                         "nombre": "LUZ HELENA GUZMAN GARCIA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 666
                     },
                     {
                         "genero": "F",
                         "id": 16163658,
                         "nombre": "CLAUDIA ALEJANDRA MAC-LEAN BRAVO",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 638
                     },
                     {
                         "genero": "M",
                         "id": 5842527,
                         "nombre": "ROBERT KURT WEISSOHN HECK",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 602
                     }
                 ],
@@ -4759,24 +5403,32 @@
                         "genero": "F",
                         "id": 9313223,
                         "nombre": "JESSICA MILENA BENGOA MAYORGA",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 608
                     },
                     {
                         "genero": "F",
                         "id": 21139205,
                         "nombre": "CONSTANZA MONSERRAT AGUILAR HERRERA",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 604
                     },
                     {
                         "genero": "M",
                         "id": 12253804,
                         "nombre": "PABLO BUSSENIUS CORNEJO",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 582
                     },
                     {
                         "genero": "M",
                         "id": 7406584,
                         "nombre": "JULIO GASTON CONTRERAS MU\u00d1OZ",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 560
                     }
                 ],
@@ -4799,24 +5451,32 @@
                         "genero": "F",
                         "id": 14476262,
                         "nombre": "CECILIA CARDENAS REYES",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 536
                     },
                     {
                         "genero": "M",
                         "id": 4814138,
                         "nombre": "ALFONSO CAMPOS GONZALEZ",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 526
                     },
                     {
                         "genero": "M",
                         "id": 10050616,
                         "nombre": "ARIEL MIHOVILOVIC BONARDI",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 510
                     },
                     {
                         "genero": "F",
                         "id": 12722201,
                         "nombre": "FRANCISCA ROJAS PHILIPPI",
+                        "pacto": "E",
+                        "partido": "EVOPOLI",
                         "votos": 501
                     }
                 ],
@@ -4899,12 +5559,16 @@
                         "genero": "M",
                         "id": 7460922,
                         "nombre": "MIGUEL ANGEL SEGUNDO CHAVEZ MENDOZA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1818
                     },
                     {
                         "genero": "F",
                         "id": 18411946,
                         "nombre": "ETTY SCARLETTE SOLIS CANDIA",
+                        "pacto": "A",
+                        "partido": "PDG",
                         "votos": 1662
                     }
                 ],
@@ -4927,24 +5591,32 @@
                         "genero": "F",
                         "id": 5797138,
                         "nombre": "OLGA MARIA ARZOLA SOTO",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 1604
                     },
                     {
                         "genero": "M",
                         "id": 6317119,
                         "nombre": "RICARDO IVAN ORELLANA ROJAS",
+                        "pacto": "B",
+                        "partido": "PDC",
                         "votos": 1511
                     },
                     {
                         "genero": "F",
                         "id": 17248502,
                         "nombre": "CAMILA TORRES UMANZOR",
+                        "pacto": "B",
+                        "partido": "PPD",
                         "votos": 1499
                     },
                     {
                         "genero": "M",
                         "id": 5106131,
                         "nombre": "ALDO DINO JOSE BERNUCCI DIAZ",
+                        "pacto": "B",
+                        "partido": "PR",
                         "votos": 1472
                     }
                 ],
@@ -4967,24 +5639,32 @@
                         "genero": "F",
                         "id": 5537755,
                         "nombre": "MARIA ELENA ACU\u00d1A OLIVERA",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1405
                     },
                     {
                         "genero": "M",
                         "id": 9043304,
                         "nombre": "ABRAHAM MANUEL GONZALEZ OLAVE",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1385
                     },
                     {
                         "genero": "F",
                         "id": 10426670,
                         "nombre": "CECILIA VIOLETA MEDINA MENESES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1322
                     },
                     {
                         "genero": "M",
                         "id": 11863307,
                         "nombre": "JUAN LUIS ENRIQUEZ FUENTES",
+                        "pacto": "C",
+                        "partido": "REPUBLICANO",
                         "votos": 1312
                     }
                 ],
@@ -5007,24 +5687,32 @@
                         "genero": "M",
                         "id": 11533584,
                         "nombre": "JOSE OSVALDO ZU\u00d1IGA PINO",
+                        "pacto": "D",
+                        "partido": "PCCH",
                         "votos": 1289
                     },
                     {
                         "genero": "M",
                         "id": 16445608,
                         "nombre": "CLAUDIO ANDRES FERRADA ALARCON",
+                        "pacto": "D",
+                        "partido": "RD",
                         "votos": 1231
                     },
                     {
                         "genero": "F",
                         "id": 17459786,
                         "nombre": "JOSEFA JAVIERA DEL PILAR BALMACEDA VASQUEZ",
+                        "pacto": "D",
+                        "partido": "CS",
                         "votos": 1195
                     },
                     {
                         "genero": "F",
                         "id": 9813500,
                         "nombre": "BRIGIDA ELIZABETH ESCALONA GONZALEZ",
+                        "pacto": "D",
+                        "partido": "PS",
                         "votos": 1194
                     }
                 ],
@@ -5047,24 +5735,32 @@
                         "genero": "F",
                         "id": 17459257,
                         "nombre": "CAROLINA  NAVARRETE RUBIO",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1120
                     },
                     {
                         "genero": "M",
                         "id": 18390168,
                         "nombre": "JORGE  CARRILLO VILLALOBOS",
+                        "pacto": "E",
+                        "partido": "UDI",
                         "votos": 1113
                     },
                     {
                         "genero": "F",
                         "id": 8680695,
                         "nombre": "SANDRA LAMA LARENAS",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 1024
                     },
                     {
                         "genero": "M",
                         "id": 3929106,
                         "nombre": "MARIO RIOS SANTANDER",
+                        "pacto": "E",
+                        "partido": "RN",
                         "votos": 941
                     }
                 ],
