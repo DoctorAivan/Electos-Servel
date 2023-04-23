@@ -558,6 +558,8 @@ if __name__ == '__main__':
 
     print('ELECTOS POR PACTO')
 
+    dic_pactos_electos.sort(key=lambda x: x.get('votos'), reverse=False)
+
     for pacto_electos in dic_pactos_electos:
         print( '>' , pacto_electos['id'] , ':' , pacto_electos['electos'] , '-' , 'votos' , ':' , pacto_electos['votos'] )
 
